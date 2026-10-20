@@ -1,0 +1,2001 @@
+county,low_access_children_10_miles,low_access_low_income_10_miles,low_access_people_10_miles,low_access_seniors_10_miles,population,state
+Scotts Bluff County,159.0,235.0,748.0,123.0,36970,Nebraska
+Marion County,0.0,0.0,0.0,0.0,8742,Georgia
+Platte County,13.0,18.0,74.0,12.0,89322,Missouri
+Archuleta County,152.0,269.0,989.0,216.0,12084,Colorado
+Adams County,335.0,328.0,1320.0,202.0,31364,Nebraska
+Trego County,92.0,84.0,539.0,113.0,3001,Kansas
+Douglas County,0.0,0.0,0.0,0.0,517110,Nebraska
+Jefferson County,274.0,480.0,1488.0,323.0,21720,Oregon
+Polk County,290.0,324.0,1141.0,184.0,31137,Missouri
+Lafayette County,816.0,1438.0,3671.0,615.0,47351,Mississippi
+Summit County,44.0,23.0,352.0,31.0,27994,Colorado
+Stone County,784.0,1239.0,2990.0,356.0,17786,Mississippi
+Traverse County,134.0,132.0,551.0,101.0,3558,Minnesota
+Des Moines County,661.0,622.0,2692.0,478.0,40325,Iowa
+Houghton County,362.0,650.0,1928.0,384.0,36628,Michigan
+Blaine County,117.0,122.0,478.0,95.0,478,Nebraska
+Portage County,0.0,0.0,0.0,0.0,161419,Ohio
+Sargent County,62.0,60.0,370.0,93.0,3829,North Dakota
+Williams County,17.0,23.0,76.0,11.0,37642,Ohio
+Osage County,373.0,505.0,1545.0,272.0,13878,Missouri
+Brevard County,35.0,55.0,211.0,31.0,543376,Florida
+Edwards County,314.0,514.0,1243.0,201.0,6721,Illinois
+Fillmore County,144.0,156.0,567.0,93.0,20866,Minnesota
+Adams County,5.0,3.0,18.0,2.0,101407,Pennsylvania
+Shannon County,192.0,415.0,853.0,160.0,8441,Missouri
+Dare County,197.0,335.0,1067.0,190.0,33920,North Carolina
+De Baca County,69.0,158.0,350.0,69.0,2022,New Mexico
+DeSoto County,82.0,450.0,742.0,60.0,34862,Florida
+Lincoln County,1560.0,2395.0,5872.0,756.0,34273,Oklahoma
+Yuma County,603.0,583.0,2300.0,324.0,10043,Colorado
+Marion County,127.0,319.0,651.0,71.0,315335,Oregon
+Mille Lacs County,201.0,305.0,906.0,118.0,26097,Minnesota
+Wadena County,240.0,312.0,1018.0,191.0,13843,Minnesota
+Ford County,745.0,800.0,2879.0,479.0,33848,Kansas
+Cass County,2.0,2.0,9.0,2.0,52293,Michigan
+Kimball County,51.0,120.0,259.0,39.0,3821,Nebraska
+Cottonwood County,244.0,241.0,1027.0,223.0,11687,Minnesota
+Linn County,1288.0,615.0,4209.0,469.0,211226,Iowa
+Greene County,8.0,15.0,27.0,3.0,21362,North Carolina
+Delaware County,16.0,15.0,75.0,9.0,174214,Ohio
+Franklin County,157.0,342.0,847.0,109.0,18125,Arkansas
+Beaufort County,716.0,1670.0,3940.0,818.0,47759,North Carolina
+Hyde County,529.0,1748.0,3513.0,483.0,5810,North Carolina
+Graham County,1087.0,2282.0,4374.0,373.0,37220,Arizona
+Columbiana County,320.0,554.0,1203.0,170.0,107841,Ohio
+McCracken County,0.0,0.0,1.0,0.0,65565,Kentucky
+Green County,262.0,473.0,1135.0,163.0,11258,Kentucky
+Jones County,534.0,745.0,2508.0,496.0,20638,Iowa
+Franklin County,0.0,0.0,0.0,0.0,22084,Georgia
+Cortland County,343.0,372.0,1481.0,199.0,49336,New York
+Cass County,438.0,593.0,1722.0,243.0,99478,Missouri
+Apache County,11490.0,24663.0,37500.0,4687.0,71518,Arizona
+Wayne County,24.0,48.0,76.0,9.0,122623,North Carolina
+Koochiching County,639.0,1187.0,3312.0,682.0,13311,Minnesota
+Wayne County,22.0,27.0,65.0,3.0,68917,Indiana
+Vernon County,736.0,1192.0,2718.0,406.0,21159,Missouri
+Hancock County,420.0,897.0,2177.0,299.0,54418,Maine
+Stewart County,228.0,706.0,1125.0,223.0,6058,Georgia
+Baker County,928.0,1941.0,4609.0,356.0,27115,Florida
+Kalawao County,0.0,0.0,0.0,0.0,90,Hawaii
+Billings County,138.0,142.0,783.0,151.0,783,North Dakota
+Russell County,764.0,1739.0,3927.0,754.0,52947,Alabama
+Oregon County,315.0,946.0,1792.0,368.0,10881,Missouri
+Lee County,8.0,14.0,41.0,6.0,618754,Florida
+Johnson County,378.0,198.0,1491.0,228.0,130882,Iowa
+Lincoln County,1087.0,2205.0,4399.0,680.0,24742,Kentucky
+Maries County,103.0,175.0,503.0,98.0,9176,Missouri
+Itasca County,1193.0,1878.0,6147.0,1406.0,45058,Minnesota
+Hardin County,160.0,268.0,911.0,205.0,4320,Illinois
+Clear Creek County,166.0,255.0,1116.0,151.0,9088,Colorado
+Whitley County,15.0,8.0,62.0,8.0,33292,Indiana
+Humboldt County,241.0,340.0,1102.0,227.0,9815,Iowa
+Fayette County,1327.0,2328.0,5406.0,901.0,22140,Illinois
+Miller County,2.0,8.0,25.0,10.0,6125,Georgia
+Fountain County,353.0,486.0,1435.0,230.0,17240,Indiana
+Thurston County,54.0,92.0,229.0,37.0,6940,Nebraska
+Buchanan County,229.0,172.0,789.0,112.0,20958,Iowa
+Chariton County,131.0,196.0,707.0,175.0,7831,Missouri
+Mono County,1217.0,1661.0,5711.0,814.0,14202,California
+White County,120.0,91.0,474.0,71.0,24643,Indiana
+Troup County,0.0,0.0,1.0,0.0,67044,Georgia
+Cibola County,1507.0,3486.0,5666.0,765.0,27213,New Mexico
+McKinley County,10421.0,22312.0,32961.0,3064.0,71492,New Mexico
+Medina County,0.0,0.0,0.0,0.0,172332,Ohio
+Claiborne County,301.0,878.0,1237.0,178.0,9604,Mississippi
+Hamilton County,112.0,200.0,417.0,66.0,2690,Kansas
+Bethel Census Area,3380.0,6009.0,8747.0,626.0,17013,Alaska
+Storey County,3.0,4.0,15.0,2.0,4010,Nevada
+Routt County,353.0,376.0,1728.0,193.0,23509,Colorado
+Greene County,0.0,0.0,0.0,0.0,49221,New York
+Holt County,328.0,593.0,1686.0,347.0,4912,Missouri
+Buncombe County,33.0,75.0,168.0,29.0,238318,North Carolina
+Hidalgo County,401.0,780.0,1685.0,276.0,4894,New Mexico
+Middlesex County,0.0,0.0,0.0,0.0,809858,New Jersey
+Silver Bow County,79.0,65.0,453.0,80.0,34200,Montana
+Glenn County,309.0,518.0,1420.0,218.0,28122,California
+Osceola County,718.0,1271.0,2973.0,395.0,268685,Florida
+Holmes County,0.0,0.0,0.0,0.0,42366,Ohio
+Riverside County,525.0,1245.0,10619.0,1112.0,2189641,California
+Lowndes County,151.0,211.0,589.0,68.0,59779,Mississippi
+Umatilla County,1175.0,1625.0,5011.0,907.0,75889,Oregon
+Franklin County,180.0,354.0,893.0,139.0,31704,Alabama
+Scott County,0.0,0.0,0.0,0.0,24181,Indiana
+Ripley County,34.0,46.0,136.0,27.0,28818,Indiana
+Surry County,75.0,112.0,213.0,23.0,73673,North Carolina
+Sierra County,511.0,804.0,2859.0,594.0,3240,California
+Marshall County,1439.0,2503.0,5959.0,799.0,37144,Mississippi
+Richardson County,428.0,665.0,2244.0,550.0,8363,Nebraska
+Renville County,1137.0,1463.0,4997.0,1085.0,15730,Minnesota
+Catahoula Parish,715.0,1416.0,3669.0,512.0,10407,Louisiana
+Richmond County,0.0,0.0,0.0,0.0,200549,Georgia
+Arkansas County,362.0,726.0,1850.0,363.0,19019,Arkansas
+Pottawatomie County,586.0,432.0,2273.0,368.0,21604,Kansas
+DeKalb County,586.0,826.0,2659.0,441.0,12892,Missouri
+Gallia County,722.0,1442.0,2932.0,465.0,30934,Ohio
+Cherokee County,0.0,0.0,0.0,0.0,214346,Georgia
+Hamilton County,594.0,1408.0,2758.0,504.0,14799,Florida
+Dakota County,0.0,0.0,0.0,0.0,398552,Minnesota
+Lawrence County,278.0,344.0,1030.0,145.0,38634,Missouri
+Kingfisher County,428.0,301.0,1576.0,216.0,15034,Oklahoma
+Montgomery County,0.0,0.0,0.0,0.0,971777,Maryland
+Mora County,1042.0,2927.0,4881.0,915.0,4881,New Mexico
+Major County,160.0,217.0,814.0,185.0,7527,Oklahoma
+Ashe County,257.0,591.0,1432.0,290.0,27281,North Carolina
+Carroll County,119.0,214.0,734.0,155.0,47818,New Hampshire
+Allegan County,0.0,0.0,0.0,0.0,111408,Michigan
+Sunflower County,254.0,3131.0,4688.0,131.0,29450,Mississippi
+Newton County,259.0,550.0,1014.0,148.0,21720,Mississippi
+Clay County,526.0,1565.0,2327.0,298.0,21730,Kentucky
+Tuolumne County,85.0,280.0,584.0,114.0,55365,California
+Reno County,1576.0,2494.0,6305.0,1134.0,64511,Kansas
+Richland County,99.0,162.0,444.0,76.0,16233,Illinois
+Missoula County,1336.0,1286.0,5761.0,732.0,109299,Montana
+Baker County,780.0,1802.0,4504.0,1139.0,16134,Oregon
+Carroll County,54.0,86.0,320.0,70.0,28836,Ohio
+Anchorage Municipality,105.0,62.0,631.0,41.0,291826,Alaska
+Jo Daviess County,437.0,553.0,2031.0,453.0,22678,Illinois
+Roseau County,1107.0,1208.0,4597.0,817.0,15629,Minnesota
+Ashland County,0.0,0.0,0.0,0.0,53139,Ohio
+Iredell County,188.0,271.0,790.0,112.0,159437,North Carolina
+Curry County,385.0,589.0,1708.0,315.0,48376,New Mexico
+Harrison County,1.0,7.0,15.0,2.0,39364,Indiana
+Larue County,48.0,90.0,189.0,33.0,14193,Kentucky
+Ouray County,34.0,47.0,235.0,46.0,4436,Colorado
+Tunica County,165.0,241.0,679.0,90.0,10778,Mississippi
+Dubuque County,58.0,15.0,237.0,42.0,93653,Iowa
+Nemaha County,33.0,55.0,169.0,40.0,7248,Nebraska
+Washington County,606.0,798.0,2612.0,320.0,61778,Ohio
+Evangeline Parish,115.0,237.0,479.0,54.0,33984,Louisiana
+Wyoming County,224.0,210.0,1051.0,162.0,42155,New York
+Crisp County,21.0,39.0,83.0,8.0,23439,Georgia
+Dillingham Census Area,894.0,1525.0,2462.0,187.0,4847,Alaska
+Yavapai County,2930.0,7271.0,16796.0,4200.0,211033,Arizona
+Garfield County,737.0,1167.0,3078.0,539.0,60580,Oklahoma
+Winn Parish,501.0,843.0,2330.0,439.0,15313,Louisiana
+Rogers County,14.0,17.0,65.0,11.0,86905,Oklahoma
+Brown County,27.0,35.0,147.0,29.0,6937,Illinois
+Mobile County,126.0,127.0,847.0,179.0,412992,Alabama
+Caldwell County,128.0,224.0,582.0,96.0,83029,North Carolina
+Coos County,221.0,475.0,1560.0,337.0,33055,New Hampshire
+Logan County,835.0,945.0,3443.0,523.0,22709,Colorado
+Fulton County,66.0,166.0,408.0,90.0,55531,New York
+Evans County,0.0,0.0,0.0,0.0,11000,Georgia
+Carroll County,389.0,562.0,1719.0,329.0,9295,Missouri
+McClain County,292.0,373.0,1060.0,145.0,34506,Oklahoma
+Early County,138.0,286.0,633.0,135.0,11008,Georgia
+Amador County,8.0,36.0,66.0,13.0,38091,California
+Thomas County,148.0,224.0,647.0,135.0,647,Nebraska
+Lamar County,0.0,0.0,0.0,0.0,18317,Georgia
+Golden Valley County,404.0,559.0,1680.0,358.0,1680,North Dakota
+Wilkes County,301.0,721.0,1510.0,309.0,10593,Georgia
+Marion County,96.0,215.0,413.0,50.0,19820,Kentucky
+Pearl River County,545.0,833.0,2191.0,303.0,55834,Mississippi
+Ozark County,811.0,1725.0,3592.0,704.0,9723,Missouri
+Harrison County,288.0,436.0,1404.0,296.0,15864,Ohio
+Dougherty County,5.0,11.0,32.0,6.0,94565,Georgia
+Coosa County,462.0,890.0,2607.0,524.0,11539,Alabama
+Stone County,693.0,1344.0,3097.0,579.0,12394,Arkansas
+Cherokee County,427.0,874.0,2399.0,578.0,27444,North Carolina
+Wilson County,0.0,0.0,0.0,0.0,81234,North Carolina
+Bergen County,0.0,0.0,0.0,0.0,905116,New Jersey
+Kalamazoo County,22.0,36.0,114.0,17.0,250331,Michigan
+Aleutians East Borough,56.0,458.0,1226.0,44.0,3141,Alaska
+Volusia County,1236.0,2358.0,4675.0,729.0,494593,Florida
+Benton County,883.0,1481.0,3120.0,402.0,8729,Mississippi
+Clare County,86.0,206.0,438.0,118.0,30926,Michigan
+Clark County,169.0,320.0,910.0,193.0,7139,Missouri
+Macoupin County,553.0,820.0,2419.0,450.0,47765,Illinois
+Pickaway County,17.0,20.0,61.0,5.0,55698,Ohio
+Pope County,374.0,631.0,1595.0,261.0,61754,Arkansas
+Liberty County,296.0,449.0,1315.0,195.0,2339,Montana
+Menominee County,179.0,368.0,990.0,226.0,24029,Michigan
+Ohio County,382.0,687.0,1635.0,267.0,23842,Kentucky
+Cecil County,0.0,0.0,0.0,0.0,101108,Maryland
+Lewis and Clark County,652.0,1312.0,4139.0,890.0,63395,Montana
+Valley County,96.0,189.0,492.0,135.0,4260,Nebraska
+Elbert County,149.0,241.0,806.0,141.0,20166,Georgia
+Jefferson Davis Parish,139.0,221.0,565.0,67.0,31594,Louisiana
+Jefferson County,121.0,189.0,417.0,33.0,218733,Missouri
+Hennepin County,0.0,0.0,0.0,0.0,1152425,Minnesota
+Knox County,253.0,724.0,982.0,106.0,31883,Kentucky
+Cedar County,229.0,490.0,954.0,194.0,13982,Missouri
+De Witt County,184.0,228.0,846.0,123.0,16561,Illinois
+Manistee County,9.0,17.0,38.0,8.0,24733,Michigan
+Tallahatchie County,1472.0,4687.0,7694.0,701.0,15378,Mississippi
+Cumberland County,730.0,1243.0,7682.0,542.0,156898,New Jersey
+Forrest County,593.0,1097.0,2437.0,341.0,74934,Mississippi
+Lee County,1.0,1.0,2.0,0.0,7887,Kentucky
+Ripley County,250.0,560.0,1191.0,244.0,14100,Missouri
+Curry County,116.0,246.0,859.0,249.0,22364,Oregon
+Fleming County,196.0,444.0,947.0,137.0,14348,Kentucky
+St. Mary Parish,40.0,77.0,197.0,41.0,54650,Louisiana
+Suffolk County,0.0,0.0,0.0,0.0,722023,Massachusetts
+Fulton County,414.0,726.0,1703.0,320.0,12245,Arkansas
+Elmore County,7.0,5.0,23.0,3.0,79303,Alabama
+Jackson County,0.0,0.0,0.0,0.0,60485,Georgia
+Wolfe County,102.0,198.0,412.0,57.0,7355,Kentucky
+Trumbull County,0.0,0.0,0.0,0.0,210312,Ohio
+Daviess County,171.0,182.0,706.0,147.0,96656,Kentucky
+Meriwether County,172.0,268.0,721.0,86.0,21992,Georgia
+Broomfield County,0.0,0.0,0.0,0.0,55889,Colorado
+Williamson County,366.0,576.0,1489.0,219.0,66357,Illinois
+Decatur County,428.0,840.0,1863.0,318.0,27842,Georgia
+Platte County,432.0,369.0,1740.0,252.0,32237,Nebraska
+Contra Costa County,0.0,0.0,0.0,0.0,1049025,California
+Wayne County,1015.0,2402.0,4691.0,961.0,13521,Missouri
+Page County,182.0,217.0,832.0,156.0,15932,Iowa
+Henry County,0.0,0.0,0.0,0.0,203922,Georgia
+Belknap County,0.0,0.0,0.0,0.0,60088,New Hampshire
+Mountrail County,207.0,193.0,933.0,152.0,7673,North Dakota
+Franklin County,0.0,0.0,0.0,0.0,1163414,Ohio
+Wilkinson County,407.0,1092.0,2089.0,389.0,9563,Georgia
+Rockdale County,0.0,0.0,0.0,0.0,85215,Georgia
+Crittenden County,1330.0,2583.0,4731.0,663.0,50902,Arkansas
+Clark County,0.0,0.0,0.0,0.0,138333,Ohio
+Shoshone County,76.0,182.0,504.0,137.0,12765,Idaho
+Teton County,885.0,1111.0,3654.0,710.0,6073,Montana
+Harrison County,456.0,605.0,1732.0,197.0,18846,Kentucky
+Solano County,16.0,14.0,60.0,6.0,413344,California
+Delta County,73.0,90.0,362.0,62.0,30952,Colorado
+Chase County,255.0,349.0,1167.0,289.0,3966,Nebraska
+Morgan County,85.0,69.0,336.0,44.0,119490,Alabama
+Madison County,81.0,100.0,346.0,51.0,334811,Alabama
+Clinton County,0.0,0.0,0.0,0.0,42040,Ohio
+Marion County,712.0,1278.0,3001.0,598.0,12660,Kansas
+Ford County,525.0,739.0,2160.0,373.0,14081,Illinois
+Harlan County,0.0,0.0,1.0,0.0,29278,Kentucky
+Saginaw County,1.0,2.0,5.0,1.0,200169,Michigan
+Marion County,343.0,511.0,1358.0,180.0,28781,Missouri
+Clark County,0.0,0.0,0.0,0.0,35613,Kentucky
+Edgar County,1017.0,1505.0,4612.0,920.0,18576,Illinois
+Otero County,43.0,82.0,205.0,31.0,18831,Colorado
+LaPorte County,23.0,22.0,108.0,6.0,111467,Indiana
+Antelope County,192.0,258.0,860.0,170.0,6685,Nebraska
+Columbia County,243.0,490.0,1262.0,242.0,124053,Georgia
+Richmond County,80.0,235.0,627.0,39.0,46639,North Carolina
+Woodruff County,94.0,234.0,486.0,97.0,7260,Arkansas
+Lumpkin County,35.0,78.0,224.0,38.0,29966,Georgia
+Howard County,299.0,322.0,1259.0,228.0,6274,Nebraska
+Coffey County,927.0,1090.0,3810.0,672.0,8601,Kansas
+Shawnee County,32.0,12.0,137.0,24.0,177934,Kansas
+Clark County,1519.0,3260.0,12221.0,1345.0,1951269,Nevada
+Madison County,553.0,1299.0,2720.0,550.0,20764,North Carolina
+Sandoval County,4530.0,9271.0,15339.0,1737.0,131561,New Mexico
+Queen Anne's County,25.0,30.0,112.0,16.0,47798,Maryland
+Lanier County,17.0,24.0,69.0,10.0,10078,Georgia
+Daviess County,282.0,457.0,1276.0,230.0,8433,Missouri
+Orange County,10.0,11.0,54.0,5.0,1145956,Florida
+Bourbon County,2.0,3.0,7.0,1.0,19985,Kentucky
+Cumberland County,8.0,15.0,61.0,17.0,281674,Maine
+Kearney County,19.0,17.0,72.0,15.0,6489,Nebraska
+Boundary County,380.0,399.0,1429.0,241.0,10972,Idaho
+Gordon County,115.0,149.0,394.0,35.0,55186,Georgia
+Jackson County,331.0,834.0,1742.0,329.0,49746,Florida
+Ulster County,69.0,99.0,423.0,74.0,182493,New York
+Catoosa County,0.0,0.0,0.0,0.0,63942,Georgia
+Pike County,21.0,38.0,92.0,8.0,65024,Kentucky
+Sanders County,761.0,1479.0,3553.0,680.0,11413,Montana
+Morgan County,290.0,576.0,1059.0,130.0,13923,Kentucky
+Jefferson County,351.0,458.0,1416.0,206.0,16843,Iowa
+Jersey County,197.0,305.0,997.0,175.0,22985,Illinois
+Franklin County,65.0,104.0,299.0,36.0,49285,Kentucky
+De Soto Parish,1376.0,1677.0,5628.0,751.0,26656,Louisiana
+Searcy County,536.0,1200.0,2693.0,534.0,8195,Arkansas
+Madison County,0.0,0.0,0.0,0.0,131636,Indiana
+Clark County,1236.0,2117.0,5220.0,925.0,22995,Arkansas
+Swain County,107.0,212.0,405.0,58.0,13981,North Carolina
+Oconee County,128.0,70.0,505.0,48.0,32808,Georgia
+Baraga County,189.0,400.0,1366.0,376.0,8860,Michigan
+Logan County,25.0,38.0,107.0,10.0,763,Nebraska
+Lake County,118.0,202.0,825.0,184.0,10866,Minnesota
+Kiowa County,314.0,498.0,1398.0,300.0,1398,Colorado
+Monona County,271.0,405.0,1399.0,291.0,9243,Iowa
+Twiggs County,1.0,3.0,5.0,1.0,9023,Georgia
+Cooper County,840.0,1138.0,3519.0,641.0,17601,Missouri
+Mayes County,207.0,238.0,704.0,86.0,41259,Oklahoma
+Irwin County,128.0,270.0,584.0,94.0,9538,Georgia
+Canyon County,394.0,507.0,1234.0,130.0,188923,Idaho
+Livingston County,164.0,248.0,660.0,111.0,15195,Missouri
+Dawson County,227.0,244.0,1083.0,213.0,8966,Montana
+Plymouth County,0.0,0.0,0.0,0.0,494919,Massachusetts
+Harper County,359.0,603.0,1559.0,343.0,6034,Kansas
+Allen County,7.0,14.0,36.0,7.0,106331,Ohio
+Perry County,328.0,555.0,1490.0,281.0,10445,Arkansas
+Allegany County,429.0,649.0,1899.0,318.0,48946,New York
+Custer County,796.0,1198.0,3204.0,569.0,27469,Oklahoma
+Turner County,28.0,61.0,172.0,35.0,8930,Georgia
+Hodgeman County,125.0,171.0,612.0,125.0,1916,Kansas
+Warren County,125.0,285.0,519.0,85.0,20972,North Carolina
+Shelby County,1153.0,1314.0,4734.0,869.0,22363,Illinois
+Bulloch County,16.0,23.0,62.0,9.0,70217,Georgia
+Deschutes County,164.0,115.0,762.0,92.0,157733,Oregon
+Camden County,789.0,1392.0,3318.0,438.0,50513,Georgia
+Shasta County,656.0,1662.0,4098.0,873.0,177223,California
+Franklin County,46.0,72.0,211.0,47.0,71372,Massachusetts
+Charlton County,224.0,384.0,885.0,123.0,12171,Georgia
+Crook County,223.0,483.0,1312.0,323.0,20978,Oregon
+Coffee County,813.0,1197.0,3064.0,394.0,42356,Georgia
+Lake County,552.0,1634.0,2992.0,682.0,297052,Florida
+Walker County,38.0,63.0,186.0,32.0,68756,Georgia
+Oglethorpe County,145.0,373.0,777.0,139.0,14899,Georgia
+Rio Grande County,255.0,394.0,1350.0,313.0,11982,Colorado
+Creek County,115.0,179.0,426.0,68.0,69967,Oklahoma
+Tulare County,1026.0,2089.0,3750.0,538.0,442179,California
+Gila County,890.0,2408.0,6427.0,1976.0,53597,Arizona
+Faribault County,330.0,599.0,1650.0,384.0,14553,Minnesota
+Lincoln County,298.0,420.0,1254.0,277.0,5467,Colorado
+Beltrami County,3340.0,5790.0,10688.0,1237.0,44442,Minnesota
+Warren County,24.0,72.0,122.0,22.0,5834,Georgia
+Harrison County,578.0,1116.0,2494.0,513.0,8957,Missouri
+Blaine County,1226.0,1989.0,4777.0,846.0,11943,Oklahoma
+Pratt County,245.0,296.0,971.0,157.0,9656,Kansas
+Okeechobee County,1008.0,3333.0,5414.0,593.0,39996,Florida
+Cuyahoga County,0.0,0.0,0.0,0.0,1280122,Ohio
+Columbia County,319.0,681.0,1486.0,290.0,24552,Arkansas
+Chowan County,587.0,1191.0,2839.0,611.0,14793,North Carolina
+Yell County,467.0,1221.0,2299.0,469.0,22185,Arkansas
+Hancock County,220.0,393.0,1094.0,276.0,11341,Iowa
+Macon County,593.0,722.0,2226.0,299.0,110768,Illinois
+Crawford County,191.0,198.0,818.0,107.0,19817,Illinois
+Lewis County,370.0,623.0,1835.0,361.0,3821,Idaho
+Wilcox County,1305.0,2763.0,4897.0,738.0,11670,Alabama
+Union County,128.0,359.0,789.0,213.0,21356,Georgia
+East Feliciana Parish,71.0,88.0,296.0,47.0,20267,Louisiana
+York County,46.0,42.0,234.0,45.0,13665,Nebraska
+Clackamas County,105.0,271.0,610.0,59.0,375992,Oregon
+Grant County,336.0,571.0,1198.0,117.0,24662,Kentucky
+Owen County,245.0,482.0,1007.0,121.0,10841,Kentucky
+Monroe County,1014.0,2613.0,4295.0,739.0,23068,Alabama
+Hettinger County,468.0,723.0,2476.0,637.0,2477,North Dakota
+Gaston County,0.0,0.0,0.0,0.0,206086,North Carolina
+Sacramento County,419.0,639.0,1706.0,255.0,1418788,California
+Linn County,728.0,877.0,2981.0,430.0,116672,Oregon
+Miami County,371.0,302.0,1476.0,210.0,32787,Kansas
+Dallas County,979.0,2665.0,4232.0,781.0,43820,Alabama
+Warren County,127.0,145.0,545.0,92.0,8508,Indiana
+Monterey County,1191.0,2121.0,5822.0,701.0,415057,California
+Lake County,23.0,69.0,165.0,41.0,11539,Michigan
+Roscommon County,25.0,57.0,180.0,34.0,24449,Michigan
+Yellowstone County,572.0,693.0,2316.0,337.0,147972,Montana
+Wibaux County,217.0,450.0,1017.0,243.0,1017,Montana
+Craig County,604.0,1157.0,2394.0,422.0,15029,Oklahoma
+Olmsted County,2.0,0.0,6.0,1.0,144248,Minnesota
+Beaver County,503.0,669.0,2152.0,361.0,5636,Oklahoma
+Jennings County,272.0,361.0,1043.0,134.0,28525,Indiana
+Haralson County,1.0,4.0,9.0,2.0,28780,Georgia
+Clarke County,149.0,186.0,621.0,113.0,9286,Iowa
+Hood River County,0.0,0.0,1.0,1.0,22346,Oregon
+Marion County,666.0,1829.0,3686.0,730.0,331298,Florida
+Genesee County,0.0,0.0,0.0,0.0,425790,Michigan
+Jefferson County,464.0,857.0,2401.0,393.0,14761,Florida
+Lamar County,454.0,658.0,1630.0,173.0,55658,Mississippi
+Rockland County,0.0,0.0,0.0,0.0,311687,New York
+Modoc County,654.0,1449.0,3486.0,818.0,9686,California
+Macon County,132.0,384.0,783.0,197.0,33922,North Carolina
+Saguache County,367.0,960.0,2067.0,384.0,6108,Colorado
+Weld County,1152.0,1215.0,4592.0,583.0,252825,Colorado
+Clay County,92.0,151.0,472.0,98.0,16667,Iowa
+Union County,477.0,1022.0,1893.0,269.0,27134,Mississippi
+Taylor County,25.0,195.0,374.0,30.0,8906,Georgia
+Barren County,574.0,969.0,2464.0,378.0,42173,Kentucky
+San Benito County,127.0,250.0,692.0,117.0,55269,California
+Chippewa County,1170.0,2330.0,6261.0,1577.0,38520,Michigan
+Christian County,383.0,313.0,1712.0,266.0,34800,Illinois
+Tehama County,596.0,1824.0,3423.0,706.0,63463,California
+Worth County,135.0,152.0,617.0,98.0,7598,Iowa
+Henderson County,21.0,36.0,99.0,13.0,7331,Illinois
+Henry County,392.0,403.0,1434.0,209.0,28215,Ohio
+Benton County,33.0,98.0,153.0,26.0,8854,Indiana
+Macon County,12.0,33.0,63.0,11.0,14740,Georgia
+Allen Parish,787.0,1296.0,2744.0,354.0,25764,Louisiana
+Cook County,0.0,0.0,0.0,0.0,5194675,Illinois
+Henry County,135.0,180.0,554.0,80.0,15416,Kentucky
+Harrison County,521.0,642.0,2260.0,428.0,14928,Iowa
+Clay County,217.0,414.0,978.0,173.0,13932,Alabama
+Martin County,85.0,380.0,674.0,100.0,146318,Florida
+Hughes County,601.0,1018.0,2572.0,491.0,14003,Oklahoma
+Rio Blanco County,119.0,138.0,573.0,93.0,6666,Colorado
+Cheshire County,142.0,167.0,778.0,119.0,77117,New Hampshire
+Schuyler County,221.0,319.0,969.0,181.0,7544,Illinois
+Carroll County,0.0,0.0,0.0,0.0,110527,Georgia
+Valencia County,223.0,515.0,916.0,105.0,76569,New Mexico
+Richmond County,0.0,0.0,0.0,0.0,468730,New York
+Dooly County,13.0,45.0,86.0,19.0,14918,Georgia
+Appling County,544.0,703.0,2414.0,388.0,18236,Georgia
+Nicholas County,9.0,21.0,42.0,2.0,7135,Kentucky
+Logan County,407.0,520.0,1907.0,538.0,1990,North Dakota
+Bronx County,0.0,0.0,0.0,0.0,1385108,New York
+Union County,381.0,677.0,1409.0,162.0,15535,Florida
+Madison County,1.0,1.0,9.0,1.0,269282,Illinois
+Monroe County,0.0,0.0,0.0,0.0,152021,Michigan
+Marion County,487.0,951.0,2012.0,275.0,27088,Mississippi
+Meeker County,771.0,740.0,2994.0,462.0,23300,Minnesota
+Boone County,147.0,192.0,674.0,137.0,5505,Nebraska
+Ralls County,161.0,159.0,759.0,147.0,10167,Missouri
+Sharp County,276.0,792.0,1311.0,254.0,17264,Arkansas
+St. Charles County,1.0,5.0,21.0,4.0,360485,Missouri
+Nassau County,0.0,0.0,0.0,0.0,1339532,New York
+Lassen County,1982.0,2929.0,9891.0,1351.0,34895,California
+Columbia County,91.0,150.0,529.0,92.0,63096,New York
+Bath County,47.0,107.0,197.0,38.0,11591,Kentucky
+Schuyler County,914.0,1654.0,3644.0,726.0,4431,Missouri
+Eureka County,201.0,124.0,930.0,132.0,1987,Nevada
+Rockingham County,0.0,0.0,0.0,0.0,93643,North Carolina
+Palo Alto County,428.0,560.0,1781.0,396.0,9421,Iowa
+Iroquois County,1450.0,2020.0,6157.0,1176.0,29718,Illinois
+Will County,0.0,0.0,0.0,0.0,677560,Illinois
+Torrance County,1423.0,3546.0,6662.0,1136.0,16383,New Mexico
+Jefferson County,544.0,1033.0,2400.0,382.0,69709,Ohio
+Kent County,0.0,0.0,0.0,0.0,162310,Delaware
+Mecosta County,235.0,404.0,1091.0,224.0,42798,Michigan
+Putnam County,0.0,0.0,0.0,0.0,99710,New York
+Dade County,0.0,0.0,0.0,0.0,16633,Georgia
+Santa Rosa County,553.0,722.0,2360.0,347.0,151372,Florida
+Navajo County,9931.0,20933.0,32705.0,4321.0,107449,Arizona
+Garrett County,17.0,28.0,80.0,11.0,30097,Maryland
+Clay County,89.0,201.0,429.0,87.0,16083,Arkansas
+Scott County,412.0,945.0,1824.0,379.0,11233,Arkansas
+Mississippi County,4.0,14.0,24.0,2.0,14358,Missouri
+Hertford County,136.0,318.0,712.0,136.0,24669,North Carolina
+Stark County,0.0,0.0,0.0,0.0,375586,Ohio
+Laurel County,151.0,212.0,699.0,91.0,58849,Kentucky
+Eddy County,146.0,195.0,689.0,149.0,2385,North Dakota
+Benton County,305.0,229.0,1125.0,120.0,38451,Minnesota
+Polk County,19.0,15.0,134.0,19.0,430640,Iowa
+Boone County,1035.0,2310.0,4746.0,985.0,36903,Arkansas
+Hoonah-Angoon Census Area,418.0,669.0,2137.0,287.0,2150,Alaska
+Clay County,9.0,35.0,59.0,15.0,3183,Georgia
+Caddo Parish,531.0,1030.0,3008.0,415.0,254969,Louisiana
+Towner County,141.0,180.0,782.0,165.0,2246,North Dakota
+Lowndes County,21.0,29.0,83.0,10.0,109233,Georgia
+Branch County,37.0,42.0,126.0,18.0,45248,Michigan
+Miami County,0.0,0.0,0.0,0.0,102506,Ohio
+Saratoga County,91.0,105.0,380.0,50.0,219607,New York
+Pennington County,346.0,336.0,1312.0,192.0,13930,Minnesota
+Newton County,455.0,769.0,2076.0,363.0,14244,Indiana
+Cook County,58.0,134.0,282.0,62.0,17212,Georgia
+Warren County,14.0,11.0,51.0,4.0,113792,Kentucky
+Harrison County,692.0,809.0,2674.0,297.0,187105,Mississippi
+Powell County,0.0,0.0,0.0,0.0,12613,Kentucky
+Van Wert County,179.0,199.0,757.0,103.0,28744,Ohio
+Freeborn County,335.0,327.0,1357.0,207.0,31255,Minnesota
+Oliver County,353.0,362.0,1547.0,252.0,1846,North Dakota
+Monroe County,287.0,512.0,1247.0,247.0,8840,Missouri
+Lincoln County,818.0,739.0,3110.0,504.0,36288,Nebraska
+Sangamon County,1186.0,816.0,4453.0,579.0,197465,Illinois
+Jewell County,155.0,372.0,823.0,240.0,3077,Kansas
+Union County,266.0,501.0,1220.0,256.0,4549,New Mexico
+Atoka County,1146.0,2125.0,4917.0,892.0,14182,Oklahoma
+Douglas County,914.0,1054.0,4101.0,923.0,36009,Minnesota
+Lincoln County,227.0,309.0,1024.0,199.0,3241,Kansas
+Petersburg Borough,47.0,25.0,168.0,14.0,3815,Alaska
+St. Francis County,818.0,1684.0,3206.0,464.0,28258,Arkansas
+Cleveland County,221.0,315.0,1270.0,113.0,255755,Oklahoma
+Pope County,218.0,479.0,1301.0,307.0,4470,Illinois
+Le Flore County,1137.0,2354.0,5340.0,774.0,50384,Oklahoma
+Mason County,758.0,1617.0,3655.0,701.0,28705,Michigan
+Pointe Coupee Parish,0.0,0.0,1.0,1.0,22802,Louisiana
+Judith Basin County,259.0,459.0,1269.0,279.0,2072,Montana
+Montgomery County,439.0,710.0,2016.0,422.0,10740,Iowa
+Knox County,507.0,621.0,2566.0,523.0,52919,Illinois
+Barber County,105.0,157.0,560.0,130.0,4861,Kansas
+Golden Valley County,192.0,357.0,884.0,189.0,884,Montana
+Pulaski County,105.0,153.0,394.0,47.0,52274,Missouri
+St. Louis County,0.0,0.0,0.0,0.0,998954,Missouri
+Big Stone County,452.0,519.0,2023.0,475.0,5269,Minnesota
+Morton County,873.0,854.0,3845.0,787.0,27471,North Dakota
+Alpena County,653.0,1264.0,3064.0,605.0,29598,Michigan
+Alger County,153.0,469.0,1225.0,404.0,9601,Michigan
+Saunders County,936.0,985.0,3680.0,566.0,20780,Nebraska
+Rockingham County,0.0,0.0,0.0,0.0,295223,New Hampshire
+Starke County,12.0,7.0,40.0,7.0,23363,Indiana
+Washington County,442.0,605.0,1894.0,220.0,11717,Kentucky
+Sherburne County,2.0,1.0,7.0,0.0,88499,Minnesota
+Walker County,28.0,49.0,167.0,36.0,67023,Alabama
+Cayuga County,6.0,6.0,25.0,5.0,80026,New York
+Bristol Bay Borough,127.0,116.0,561.0,51.0,997,Alaska
+Grant County,578.0,1375.0,3758.0,1072.0,29514,New Mexico
+Boone County,0.0,0.0,0.0,0.0,118811,Kentucky
+Trimble County,0.0,0.0,0.0,0.0,8809,Kentucky
+Graham County,37.0,90.0,235.0,70.0,8861,North Carolina
+Sherman County,148.0,222.0,673.0,119.0,6010,Kansas
+Oneida County,123.0,194.0,576.0,78.0,234878,New York
+Meigs County,998.0,1585.0,4099.0,542.0,23770,Ohio
+Alcorn County,275.0,470.0,1136.0,147.0,37057,Mississippi
+Chambers County,115.0,292.0,680.0,144.0,34215,Alabama
+St. Charles Parish,0.0,0.0,0.0,0.0,52780,Louisiana
+Clay County,819.0,1842.0,3173.0,419.0,20634,Mississippi
+Salem County,57.0,23.0,202.0,33.0,66083,New Jersey
+Bear Lake County,386.0,363.0,1549.0,324.0,5986,Idaho
+Dukes County,9.0,0.0,50.0,9.0,16535,Massachusetts
+Wabaunsee County,718.0,909.0,2948.0,499.0,7053,Kansas
+Madera County,141.0,205.0,594.0,78.0,150865,California
+Clay County,41.0,48.0,198.0,29.0,26890,Indiana
+Stanton County,91.0,98.0,457.0,76.0,6129,Nebraska
+Rockcastle County,14.0,41.0,78.0,16.0,17056,Kentucky
+Pittsburg County,1817.0,3279.0,8048.0,1514.0,45837,Oklahoma
+Imperial County,1936.0,5651.0,11817.0,1532.0,174528,California
+Stanly County,0.0,0.0,0.0,0.0,60585,North Carolina
+Fairfield County,0.0,0.0,0.0,0.0,916829,Connecticut
+Adams County,165.0,342.0,1014.0,233.0,3976,Idaho
+Sumter County,579.0,1480.0,2483.0,447.0,13763,Alabama
+Ashtabula County,124.0,290.0,415.0,64.0,101497,Ohio
+Lake County,324.0,549.0,1633.0,392.0,28746,Montana
+Genesee County,0.0,0.0,0.0,0.0,60079,New York
+Lincoln County,1665.0,2176.0,5074.0,559.0,5208,Idaho
+Ouachita County,1076.0,2248.0,4903.0,841.0,26120,Arkansas
+Steele County,358.0,246.0,1669.0,382.0,1975,North Dakota
+Steuben County,2.0,2.0,8.0,1.0,34185,Indiana
+Costilla County,736.0,2043.0,3524.0,807.0,3524,Colorado
+Sac County,295.0,389.0,1154.0,188.0,10350,Iowa
+Grady County,567.0,723.0,2232.0,314.0,52431,Oklahoma
+Gloucester County,0.0,0.0,0.0,0.0,288288,New Jersey
+Benson County,602.0,1007.0,2845.0,642.0,6660,North Dakota
+Attala County,613.0,1309.0,2621.0,515.0,19564,Mississippi
+Crenshaw County,1010.0,1878.0,4101.0,578.0,13906,Alabama
+Clinton County,69.0,61.0,297.0,53.0,75382,Michigan
+Taylor County,587.0,1794.0,3759.0,957.0,22570,Florida
+Webster County,16.0,31.0,57.0,6.0,2799,Georgia
+Benewah County,476.0,858.0,2165.0,414.0,9285,Idaho
+Rensselaer County,481.0,597.0,2154.0,305.0,159429,New York
+Matanuska-Susitna Borough,1131.0,2007.0,5525.0,665.0,88995,Alaska
+Becker County,2587.0,3538.0,9526.0,1478.0,32504,Minnesota
+Monroe County,0.0,0.0,0.0,0.0,744344,New York
+Washington Parish,662.0,1063.0,2619.0,411.0,47168,Louisiana
+Gunnison County,219.0,393.0,1357.0,231.0,15324,Colorado
+Aitkin County,921.0,1837.0,5476.0,1491.0,16202,Minnesota
+Crawford County,752.0,1115.0,3046.0,600.0,17096,Iowa
+Leslie County,213.0,559.0,950.0,130.0,11310,Kentucky
+Vermilion County,743.0,988.0,2993.0,476.0,81625,Illinois
+Ross County,74.0,118.0,255.0,28.0,78064,Ohio
+Bell County,261.0,886.0,1204.0,186.0,28691,Kentucky
+DeKalb County,0.0,0.0,0.0,0.0,691893,Georgia
+Poweshiek County,43.0,53.0,181.0,43.0,18914,Iowa
+Otsego County,173.0,315.0,843.0,154.0,24164,Michigan
+Harris County,95.0,108.0,411.0,55.0,32024,Georgia
+Kenai Peninsula Borough,2066.0,2949.0,8785.0,1133.0,55400,Alaska
+Hale County,573.0,1099.0,2389.0,380.0,15760,Alabama
+Burke County,67.0,168.0,361.0,66.0,90912,North Carolina
+Henry County,127.0,227.0,547.0,103.0,49462,Indiana
+Burke County,275.0,320.0,1354.0,294.0,1968,North Dakota
+Sioux County,173.0,269.0,836.0,214.0,1311,Nebraska
+Anderson County,384.0,456.0,1499.0,271.0,8102,Kansas
+Calloway County,343.0,921.0,2255.0,511.0,37191,Kentucky
+Kent County,0.0,0.0,0.0,0.0,20197,Maryland
+Washington County,634.0,672.0,2485.0,437.0,4814,Colorado
+Merced County,444.0,654.0,1489.0,176.0,255793,California
+Trigg County,291.0,229.0,1287.0,209.0,14339,Kentucky
+Hancock County,644.0,1066.0,2468.0,343.0,43929,Mississippi
+Lake County,639.0,1460.0,3200.0,702.0,7895,Oregon
+St. James Parish,0.0,0.0,0.0,0.0,22102,Louisiana
+Carroll County,196.0,286.0,935.0,197.0,15387,Illinois
+Dakota County,315.0,339.0,1232.0,224.0,21006,Nebraska
+Chemung County,0.0,0.0,0.0,0.0,88830,New York
+Custer County,1022.0,1422.0,4501.0,962.0,10939,Nebraska
+Benton County,588.0,919.0,2986.0,434.0,85579,Oregon
+McDuffie County,27.0,37.0,173.0,43.0,21875,Georgia
+St. Tammany Parish,308.0,602.0,1467.0,239.0,233740,Louisiana
+Stillwater County,279.0,365.0,1395.0,267.0,9117,Montana
+Livingston County,780.0,1470.0,3322.0,579.0,38950,Illinois
+San Bernardino County,5328.0,9422.0,19505.0,1885.0,2035210,California
+Jackson County,249.0,500.0,1089.0,155.0,13494,Kentucky
+Franklin County,321.0,167.0,919.0,138.0,12786,Idaho
+Chatham County,0.0,0.0,1.0,0.0,265128,Georgia
+Caroline County,6.0,15.0,29.0,4.0,33066,Maryland
+Alexander County,115.0,365.0,948.0,108.0,8238,Illinois
+Nez Perce County,169.0,322.0,1123.0,244.0,39265,Idaho
+Anoka County,0.0,0.0,0.0,0.0,330844,Minnesota
+Owen County,26.0,57.0,152.0,17.0,21575,Indiana
+Tama County,24.0,43.0,154.0,36.0,17767,Iowa
+Sandusky County,0.0,0.0,0.0,0.0,60944,Ohio
+Dade County,159.0,310.0,706.0,138.0,7883,Missouri
+Gilmer County,163.0,368.0,884.0,166.0,28292,Georgia
+Sullivan County,25.0,46.0,147.0,32.0,77547,New York
+Pope County,311.0,334.0,1369.0,260.0,10995,Minnesota
+Wyandot County,78.0,73.0,313.0,52.0,22615,Ohio
+Oakland County,0.0,0.0,0.0,0.0,1202362,Michigan
+Bourbon County,632.0,903.0,2423.0,420.0,15173,Kansas
+Marengo County,1000.0,2065.0,3950.0,643.0,21027,Alabama
+Douglas County,1686.0,3541.0,9122.0,1895.0,107667,Oregon
+Mercer County,350.0,364.0,1408.0,214.0,40814,Ohio
+Prowers County,682.0,1131.0,2495.0,427.0,12551,Colorado
+Barton County,573.0,861.0,2204.0,354.0,12402,Missouri
+Payette County,37.0,22.0,108.0,13.0,22623,Idaho
+Harper County,450.0,744.0,1888.0,385.0,3685,Oklahoma
+Vigo County,126.0,200.0,537.0,62.0,107848,Indiana
+Tate County,1827.0,3201.0,6622.0,842.0,28886,Mississippi
+Franklin County,409.0,763.0,1720.0,273.0,60619,North Carolina
+Echols County,518.0,739.0,1926.0,227.0,4034,Georgia
+Carter County,24.0,40.0,104.0,14.0,27720,Kentucky
+Barrow County,0.0,0.0,0.0,0.0,69367,Georgia
+Coahoma County,1284.0,3111.0,4460.0,520.0,26151,Mississippi
+Ware County,603.0,1234.0,2605.0,377.0,36312,Georgia
+Geneva County,2.0,4.0,8.0,0.0,26790,Alabama
+Moniteau County,224.0,231.0,804.0,121.0,15607,Missouri
+Waseca County,826.0,992.0,3375.0,612.0,19136,Minnesota
+Merrick County,448.0,651.0,1822.0,304.0,7845,Nebraska
+Hampden County,521.0,545.0,2535.0,360.0,463490,Massachusetts
+Johnston County,0.0,0.0,0.0,0.0,168878,North Carolina
+Linn County,393.0,468.0,1543.0,256.0,9656,Kansas
+Duplin County,349.0,665.0,1315.0,166.0,58505,North Carolina
+Hendry County,372.0,1158.0,2346.0,66.0,39140,Florida
+Bingham County,632.0,930.0,1909.0,206.0,45607,Idaho
+Decatur County,140.0,306.0,825.0,198.0,2961,Kansas
+Carter County,430.0,760.0,1860.0,319.0,47557,Oklahoma
+Cass County,293.0,281.0,1088.0,167.0,38966,Indiana
+Lafayette County,157.0,404.0,697.0,124.0,8870,Florida
+Southeast Fairbanks Census Area,506.0,695.0,2090.0,215.0,7029,Alaska
+Greeley County,36.0,52.0,172.0,20.0,1247,Kansas
+Esmeralda County,128.0,342.0,761.0,197.0,783,Nevada
+Coal County,408.0,669.0,1623.0,274.0,5925,Oklahoma
+Scott County,861.0,1061.0,3562.0,658.0,5355,Illinois
+Dolores County,462.0,770.0,2064.0,388.0,2064,Colorado
+Warren County,765.0,529.0,3115.0,472.0,46225,Iowa
+Clinton County,1133.0,2114.0,5366.0,687.0,82128,New York
+LaSalle County,1190.0,1282.0,4933.0,650.0,113924,Illinois
+Clark County,308.0,498.0,982.0,129.0,982,Idaho
+Piatt County,82.0,54.0,366.0,52.0,16729,Illinois
+Nance County,49.0,49.0,173.0,23.0,3735,Nebraska
+Morrow County,105.0,162.0,504.0,109.0,11173,Oregon
+Marshall County,601.0,730.0,2219.0,273.0,47051,Indiana
+Winston County,466.0,1041.0,2019.0,376.0,19198,Mississippi
+San Juan County,127.0,203.0,694.0,86.0,699,Colorado
+Eddy County,692.0,903.0,2664.0,410.0,53829,New Mexico
+Deer Lodge County,64.0,111.0,315.0,65.0,9298,Montana
+Smith County,284.0,435.0,1440.0,384.0,3853,Kansas
+Windham County,28.0,15.0,130.0,17.0,118428,Connecticut
+Franklin County,319.0,435.0,1517.0,323.0,3225,Nebraska
+Gwinnett County,0.0,0.0,0.0,0.0,805321,Georgia
+Calhoun County,156.0,268.0,731.0,152.0,5089,Illinois
+Sebastian County,65.0,128.0,288.0,45.0,125744,Arkansas
+Orange County,10.0,14.0,41.0,1.0,19840,Indiana
+Greenup County,59.0,123.0,233.0,36.0,36910,Kentucky
+Yadkin County,0.0,0.0,0.0,0.0,38406,North Carolina
+Cleveland County,459.0,662.0,1920.0,334.0,8689,Arkansas
+Winnebago County,0.0,0.0,0.0,0.0,295266,Illinois
+Bartow County,0.0,0.0,0.0,0.0,100157,Georgia
+Allen County,164.0,321.0,781.0,163.0,19956,Kentucky
+Prairie County,209.0,410.0,1179.0,307.0,1179,Montana
+Lawrence County,548.0,981.0,2214.0,329.0,34339,Alabama
+Houston County,0.0,0.0,0.0,0.0,139900,Georgia
+Adair County,410.0,728.0,1469.0,227.0,22683,Oklahoma
+Humboldt County,582.0,855.0,2583.0,369.0,16528,Nevada
+Columbia County,1054.0,1707.0,4371.0,630.0,67531,Florida
+El Dorado County,31.0,45.0,207.0,31.0,181058,California
+Richland County,0.0,0.0,0.0,0.0,124475,Ohio
+Bryan County,1312.0,2180.0,5377.0,1012.0,42416,Oklahoma
+Jasper County,243.0,159.0,967.0,171.0,9698,Illinois
+Bay County,716.0,763.0,3033.0,457.0,168852,Florida
+Loup County,56.0,75.0,252.0,44.0,632,Nebraska
+Fremont County,427.0,1295.0,3234.0,815.0,46824,Colorado
+West Baton Rouge Parish,73.0,90.0,247.0,31.0,23788,Louisiana
+Hillsborough County,0.0,0.0,0.0,0.0,400721,New Hampshire
+Latah County,467.0,621.0,1993.0,345.0,37244,Idaho
+Essex County,0.0,0.0,0.0,0.0,743159,Massachusetts
+Jasper County,983.0,941.0,4027.0,706.0,36842,Iowa
+Cattaraugus County,34.0,70.0,155.0,34.0,80317,New York
+Churchill County,148.0,175.0,877.0,132.0,24877,Nevada
+Wilson County,150.0,254.0,707.0,141.0,9409,Kansas
+Saline County,210.0,373.0,1024.0,179.0,23370,Missouri
+Oxford County,877.0,1425.0,4268.0,770.0,57833,Maine
+Dubois County,289.0,309.0,1058.0,139.0,41889,Indiana
+Kiowa County,745.0,1589.0,3486.0,714.0,9446,Oklahoma
+Wells County,11.0,6.0,43.0,5.0,27636,Indiana
+Fremont County,181.0,372.0,1238.0,326.0,13242,Idaho
+Alleghany County,77.0,222.0,477.0,99.0,11155,North Carolina
+New Hanover County,0.0,0.0,0.0,0.0,202667,North Carolina
+Monroe County,81.0,188.0,381.0,75.0,10963,Kentucky
+Estill County,2.0,5.0,9.0,2.0,14672,Kentucky
+Clayton County,183.0,193.0,454.0,44.0,18129,Iowa
+Williams County,602.0,485.0,2797.0,442.0,22398,North Dakota
+Logan County,738.0,1681.0,3849.0,440.0,41848,Oklahoma
+Alcona County,229.0,674.0,1709.0,607.0,10942,Michigan
+Steele County,353.0,393.0,1418.0,209.0,36576,Minnesota
+Grant Parish,1089.0,1973.0,4348.0,667.0,22309,Louisiana
+Bracken County,12.0,19.0,48.0,9.0,8488,Kentucky
+Hubbard County,930.0,1191.0,4430.0,873.0,20428,Minnesota
+Iowa County,161.0,168.0,841.0,161.0,16355,Iowa
+Okaloosa County,271.0,514.0,1290.0,196.0,180822,Florida
+Randolph County,199.0,250.0,747.0,90.0,26171,Indiana
+Jackson County,12.0,14.0,39.0,5.0,160248,Michigan
+Allen County,383.0,383.0,1606.0,351.0,13371,Kansas
+Todd County,215.0,406.0,919.0,147.0,12460,Kentucky
+Hamilton County,0.0,0.0,0.0,0.0,802374,Ohio
+Madison County,31.0,32.0,89.0,2.0,37536,Idaho
+Lincoln County,565.0,1410.0,3087.0,725.0,20497,New Mexico
+Morrow County,208.0,130.0,754.0,77.0,34827,Ohio
+Sussex County,0.0,0.0,0.0,0.0,149265,New Jersey
+Washington County,702.0,899.0,2942.0,621.0,5799,Kansas
+Dawes County,381.0,673.0,2122.0,549.0,9182,Nebraska
+Graves County,698.0,962.0,2984.0,446.0,37121,Kentucky
+Hickory County,92.0,177.0,423.0,109.0,9627,Missouri
+Jackson Parish,501.0,1300.0,2488.0,508.0,16274,Louisiana
+Sussex County,0.0,0.0,0.0,0.0,197145,Delaware
+Lake County,0.0,0.0,0.0,0.0,496005,Indiana
+Ingham County,0.0,0.0,0.0,0.0,280895,Michigan
+Washington County,74.0,46.0,336.0,55.0,20234,Nebraska
+Monroe County,146.0,184.0,708.0,170.0,7970,Iowa
+Barton County,643.0,827.0,2921.0,548.0,27674,Kansas
+Carver County,0.0,0.0,0.0,0.0,91042,Minnesota
+Hardee County,317.0,874.0,2751.0,408.0,27731,Florida
+Bleckley County,78.0,144.0,311.0,47.0,13063,Georgia
+Minidoka County,317.0,370.0,941.0,98.0,20069,Idaho
+Crawford County,430.0,710.0,1743.0,268.0,39134,Kansas
+Burlington County,141.0,127.0,589.0,57.0,448734,New Jersey
+Marion County,752.0,1130.0,3073.0,421.0,66501,Ohio
+Phillips County,49.0,73.0,207.0,35.0,4442,Colorado
+Flathead County,669.0,1174.0,3091.0,432.0,90928,Montana
+Marshall County,178.0,268.0,834.0,178.0,15840,Oklahoma
+Lyon County,29.0,85.0,274.0,94.0,8314,Kentucky
+Multnomah County,12.0,14.0,62.0,8.0,735334,Oregon
+Howard County,817.0,1565.0,3443.0,592.0,13789,Arkansas
+McIntosh County,449.0,1075.0,2268.0,481.0,20252,Oklahoma
+Barbour County,791.0,2440.0,4643.0,629.0,27457,Alabama
+Montgomery County,6.0,8.0,25.0,5.0,50219,New York
+Jefferson County,1353.0,1458.0,3670.0,360.0,26140,Idaho
+Itawamba County,158.0,360.0,713.0,117.0,23401,Mississippi
+Gilchrist County,3.0,12.0,20.0,6.0,16939,Florida
+Rawlins County,159.0,346.0,899.0,214.0,2519,Kansas
+Elbert County,1583.0,1619.0,6106.0,704.0,23086,Colorado
+Seminole County,0.0,0.0,0.0,0.0,422718,Florida
+Jackson County,299.0,351.0,1287.0,258.0,10266,Minnesota
+Emanuel County,708.0,1505.0,2874.0,383.0,22598,Georgia
+Hinsdale County,19.0,34.0,99.0,19.0,843,Colorado
+Somerset County,0.0,0.0,0.0,0.0,323444,New Jersey
+Adams County,349.0,348.0,1215.0,91.0,441603,Colorado
+Johnson County,180.0,422.0,736.0,113.0,23356,Kentucky
+Appanoose County,321.0,531.0,1609.0,372.0,12887,Iowa
+Clark County,559.0,738.0,2215.0,487.0,2215,Kansas
+Herkimer County,492.0,772.0,2239.0,316.0,64519,New York
+Pike County,70.0,109.0,334.0,53.0,12845,Indiana
+Clay County,506.0,608.0,2170.0,327.0,13815,Illinois
+Clarke County,0.0,0.0,0.0,0.0,116714,Georgia
+Jackson County,65.0,115.0,381.0,83.0,1394,Colorado
+Franklin Parish,1077.0,2317.0,4575.0,864.0,20767,Louisiana
+Boulder County,74.0,121.0,604.0,110.0,294567,Colorado
+Chattooga County,17.0,31.0,84.0,14.0,26015,Georgia
+Swift County,582.0,694.0,2463.0,402.0,9783,Minnesota
+Garfield County,159.0,223.0,667.0,123.0,1206,Montana
+Jackson County,572.0,536.0,2051.0,284.0,13462,Kansas
+Litchfield County,0.0,0.0,0.0,0.0,189927,Connecticut
+St. Landry Parish,859.0,1940.0,3217.0,533.0,83384,Louisiana
+Tompkins County,39.0,62.0,179.0,10.0,101564,New York
+Crawford County,1126.0,2077.0,5120.0,742.0,12630,Georgia
+Murray County,44.0,55.0,157.0,18.0,13488,Oklahoma
+Chickasaw County,343.0,327.0,1297.0,241.0,12439,Iowa
+LaMoure County,646.0,804.0,3093.0,773.0,4139,North Dakota
+Fulton County,272.0,387.0,1031.0,162.0,20836,Indiana
+Colfax County,603.0,666.0,2692.0,590.0,10515,Nebraska
+Holmes County,578.0,1228.0,2331.0,376.0,19927,Florida
+Washington County,754.0,1747.0,3060.0,399.0,25195,Missouri
+Greer County,98.0,177.0,551.0,126.0,6239,Oklahoma
+Treutlen County,33.0,82.0,149.0,23.0,6885,Georgia
+Edmonson County,137.0,245.0,665.0,131.0,12161,Kentucky
+Stanton County,65.0,59.0,236.0,46.0,2235,Kansas
+Washington County,321.0,611.0,1437.0,231.0,203065,Arkansas
+Pulaski County,113.0,97.0,581.0,87.0,382748,Arkansas
+Dorchester County,297.0,547.0,1898.0,484.0,32618,Maryland
+Cameron Parish,367.0,400.0,1750.0,231.0,6839,Louisiana
+Alpine County,117.0,197.0,669.0,104.0,1175,California
+Effingham County,482.0,524.0,1894.0,270.0,34242,Illinois
+Adams County,587.0,882.0,2237.0,318.0,28550,Ohio
+Monroe County,132.0,270.0,689.0,154.0,8149,Arkansas
+Foster County,112.0,197.0,613.0,157.0,3343,North Dakota
+Huerfano County,365.0,723.0,2303.0,559.0,6711,Colorado
+DeKalb County,52.0,21.0,256.0,36.0,105160,Illinois
+Currituck County,67.0,109.0,357.0,39.0,23547,North Carolina
+West Feliciana Parish,182.0,2322.0,5957.0,327.0,15625,Louisiana
+Perquimans County,126.0,310.0,731.0,151.0,13453,North Carolina
+Pinellas County,0.0,0.0,0.0,0.0,916542,Florida
+San Diego County,1913.0,3363.0,9944.0,1692.0,3095313,California
+Valley County,409.0,745.0,1838.0,298.0,9862,Idaho
+Pamlico County,161.0,456.0,777.0,184.0,13144,North Carolina
+Bollinger County,819.0,1435.0,3512.0,583.0,12363,Missouri
+Madison County,793.0,529.0,2804.0,379.0,15679,Iowa
+Burleigh County,492.0,433.0,2350.0,463.0,81308,North Dakota
+Garland County,592.0,946.0,2499.0,364.0,96024,Arkansas
+Tattnall County,125.0,239.0,599.0,108.0,25520,Georgia
+Jefferson County,55.0,65.0,207.0,36.0,19126,Kansas
+Duval County,0.0,0.0,0.0,0.0,864263,Florida
+Wabash County,1.0,2.0,10.0,2.0,32888,Indiana
+Androscoggin County,0.0,0.0,0.0,0.0,107702,Maine
+Lewis County,938.0,1327.0,4090.0,722.0,10211,Missouri
+Presque Isle County,390.0,731.0,2882.0,896.0,13376,Michigan
+Greene County,209.0,243.0,782.0,102.0,14400,Mississippi
+Columbus County,56.0,90.0,267.0,39.0,58098,North Carolina
+Daviess County,0.0,0.0,0.0,0.0,31648,Indiana
+Coffee County,595.0,814.0,2437.0,408.0,49948,Alabama
+Waldo County,203.0,273.0,817.0,106.0,38786,Maine
+Montrose County,317.0,527.0,1398.0,276.0,41276,Colorado
+Madison County,822.0,1025.0,3534.0,485.0,43435,Ohio
+Camden County,85.0,105.0,361.0,42.0,9980,North Carolina
+Fairfield County,0.0,0.0,0.0,0.0,146156,Ohio
+Elmore County,1042.0,2060.0,4022.0,645.0,27038,Idaho
+Mason County,920.0,1227.0,3819.0,595.0,14666,Illinois
+Grant County,155.0,123.0,410.0,24.0,7829,Kansas
+Baltimore city,0.0,0.0,0.0,0.0,620961,Maryland
+Jasper County,87.0,157.0,393.0,62.0,13900,Georgia
+Spencer County,0.0,0.0,0.0,0.0,17061,Kentucky
+Inyo County,696.0,1157.0,4225.0,824.0,18546,California
+Owsley County,19.0,66.0,108.0,19.0,4755,Kentucky
+Adair County,277.0,433.0,1122.0,179.0,25607,Missouri
+St. Clair County,3.0,2.0,9.0,0.0,163040,Michigan
+Mitchell County,271.0,397.0,1214.0,249.0,6373,Kansas
+Washington County,0.0,0.0,0.0,0.0,238136,Minnesota
+Oktibbeha County,108.0,194.0,519.0,96.0,47671,Mississippi
+Nuckolls County,390.0,610.0,1680.0,367.0,4500,Nebraska
+Cascade County,1272.0,1684.0,5908.0,1153.0,81327,Montana
+Transylvania County,2.0,7.0,10.0,2.0,33090,North Carolina
+Teton County,305.0,227.0,906.0,61.0,10170,Idaho
+Worcester County,0.0,0.0,0.0,0.0,51454,Maryland
+Rock County,87.0,137.0,428.0,82.0,1526,Nebraska
+Breathitt County,119.0,384.0,559.0,81.0,13878,Kentucky
+Douglas County,274.0,897.0,2190.0,643.0,46997,Nevada
+Woodford County,0.0,0.0,0.0,0.0,24939,Kentucky
+Rosebud County,674.0,988.0,2225.0,288.0,9233,Montana
+Panola County,1224.0,2679.0,4937.0,694.0,34707,Mississippi
+O'Brien County,55.0,70.0,264.0,47.0,14398,Iowa
+Delaware County,256.0,245.0,1033.0,171.0,17764,Iowa
+Macon County,521.0,1138.0,2201.0,313.0,21452,Alabama
+Pitt County,0.0,0.0,0.0,0.0,168148,North Carolina
+Jefferson County,41.0,11.0,244.0,48.0,534543,Colorado
+Mahnomen County,613.0,900.0,1905.0,230.0,5413,Minnesota
+Greenlee County,668.0,1167.0,2678.0,518.0,8437,Arizona
+Noble County,273.0,477.0,1292.0,226.0,14645,Ohio
+Marshall County,98.0,267.0,618.0,160.0,31448,Kentucky
+Nantucket County,0.0,0.0,0.0,0.0,10172,Massachusetts
+Pinal County,5320.0,8401.0,20273.0,3281.0,375770,Arizona
+Bates County,146.0,141.0,661.0,116.0,17049,Missouri
+Peach County,0.0,0.0,0.0,0.0,27695,Georgia
+Polk County,91.0,92.0,396.0,68.0,75403,Oregon
+Carroll County,39.0,37.0,170.0,27.0,20816,Iowa
+St. Louis city,0.0,0.0,0.0,0.0,319294,Missouri
+Tillamook County,74.0,204.0,727.0,110.0,25250,Oregon
+Logan County,128.0,135.0,503.0,89.0,2756,Kansas
+Allegany County,235.0,528.0,1259.0,239.0,75087,Maryland
+Nobles County,829.0,904.0,3334.0,580.0,21378,Minnesota
+Alfalfa County,479.0,838.0,3301.0,640.0,5642,Oklahoma
+McCurtain County,1155.0,2193.0,4912.0,844.0,33151,Oklahoma
+Labette County,534.0,581.0,2062.0,316.0,21607,Kansas
+Middlesex County,0.0,0.0,0.0,0.0,1503085,Massachusetts
+Dearborn County,0.0,0.0,0.0,0.0,50047,Indiana
+Denali Borough,411.0,604.0,1826.0,137.0,1826,Alaska
+Pike County,1.0,1.0,4.0,0.0,17869,Georgia
+Buchanan County,20.0,22.0,102.0,20.0,89201,Missouri
+Lawrence County,737.0,1277.0,2884.0,368.0,62450,Ohio
+Garvin County,655.0,943.0,2528.0,410.0,27576,Oklahoma
+Madison County,129.0,423.0,656.0,103.0,28120,Georgia
+Carlton County,981.0,924.0,4083.0,634.0,35386,Minnesota
+Randolph County,57.0,196.0,321.0,59.0,7719,Georgia
+Lancaster County,186.0,76.0,724.0,90.0,285407,Nebraska
+Montgomery County,69.0,72.0,307.0,53.0,27798,North Carolina
+Lake of the Woods County,314.0,353.0,1666.0,325.0,4045,Minnesota
+Van Buren County,0.0,0.0,0.0,0.0,76258,Michigan
+Wallowa County,336.0,749.0,1757.0,421.0,7008,Oregon
+Menifee County,14.0,17.0,67.0,12.0,6306,Kentucky
+McCone County,133.0,222.0,696.0,142.0,1734,Montana
+Hudson County,0.0,0.0,0.0,0.0,634266,New Jersey
+Washoe County,760.0,1120.0,3682.0,482.0,421407,Nevada
+Tangipahoa Parish,375.0,592.0,1469.0,146.0,121097,Louisiana
+Middlesex County,0.0,0.0,0.0,0.0,165676,Connecticut
+Muskingum County,895.0,1193.0,3409.0,470.0,86074,Ohio
+Calhoun County,198.0,422.0,921.0,134.0,6694,Georgia
+Stokes County,424.0,588.0,2082.0,325.0,47401,North Carolina
+Perry County,63.0,235.0,314.0,35.0,28712,Kentucky
+Midland County,315.0,620.0,1341.0,256.0,83629,Michigan
+Henderson County,558.0,671.0,2482.0,322.0,46250,Kentucky
+Choctaw County,293.0,543.0,1104.0,207.0,8547,Mississippi
+Hartford County,0.0,0.0,0.0,0.0,894014,Connecticut
+San Mateo County,348.0,416.0,1432.0,165.0,718451,California
+Lawrence County,182.0,290.0,786.0,128.0,46134,Indiana
+Cherokee County,479.0,565.0,2097.0,477.0,12072,Iowa
+Hardin County,357.0,416.0,1100.0,114.0,32058,Ohio
+St. Francois County,79.0,225.0,564.0,149.0,65359,Missouri
+Franklin County,192.0,282.0,895.0,126.0,101492,Missouri
+Yates County,31.0,45.0,151.0,21.0,25348,New York
+Kandiyohi County,734.0,872.0,3576.0,629.0,42239,Minnesota
+Anne Arundel County,0.0,0.0,0.0,0.0,537656,Maryland
+Avoyelles Parish,428.0,590.0,1651.0,253.0,42073,Louisiana
+Lawrence County,973.0,1740.0,4196.0,755.0,17415,Arkansas
+Morton County,234.0,304.0,845.0,126.0,3233,Kansas
+Morehouse Parish,427.0,908.0,2042.0,369.0,27979,Louisiana
+Whitley County,235.0,718.0,1060.0,188.0,35637,Kentucky
+Park County,1592.0,1761.0,8732.0,1147.0,16206,Colorado
+Whiteside County,36.0,50.0,156.0,24.0,58498,Illinois
+Dickinson County,221.0,248.0,1026.0,251.0,16667,Iowa
+Carroll County,1.0,8.0,27.0,10.0,20155,Indiana
+Ottawa County,8.0,14.0,58.0,19.0,41428,Ohio
+McLean County,993.0,1183.0,4944.0,1053.0,8962,North Dakota
+Sierra County,456.0,1090.0,2317.0,623.0,11988,New Mexico
+Idaho County,420.0,1339.0,2890.0,759.0,16267,Idaho
+Blaine County,497.0,605.0,1693.0,201.0,21376,Idaho
+Broadwater County,169.0,214.0,864.0,134.0,5612,Montana
+Blackford County,0.0,0.0,0.0,0.0,12766,Indiana
+McLean County,64.0,99.0,314.0,45.0,9531,Kentucky
+Holmes County,1488.0,3546.0,4858.0,570.0,19198,Mississippi
+Monroe County,161.0,222.0,642.0,92.0,36989,Mississippi
+Cowley County,691.0,890.0,2793.0,537.0,36311,Kansas
+Davidson County,0.0,0.0,0.0,0.0,162878,North Carolina
+Kennebec County,209.0,333.0,1105.0,166.0,122151,Maine
+Miami County,46.0,60.0,223.0,38.0,36903,Indiana
+Phelps County,516.0,996.0,2189.0,343.0,45156,Missouri
+Robeson County,18.0,53.0,83.0,12.0,134168,North Carolina
+Polk County,1675.0,3501.0,6680.0,1037.0,20662,Arkansas
+Howard County,34.0,14.0,145.0,21.0,82752,Indiana
+Preble County,0.0,0.0,0.0,0.0,42270,Ohio
+Montezuma County,771.0,1381.0,2666.0,243.0,25535,Colorado
+Acadia Parish,15.0,28.0,70.0,16.0,61773,Louisiana
+Wayne County,0.0,0.0,0.0,0.0,114520,Ohio
+Murray County,327.0,328.0,1264.0,202.0,8725,Minnesota
+Story County,197.0,172.0,695.0,90.0,89542,Iowa
+Hancock County,1082.0,1781.0,4787.0,913.0,19104,Illinois
+Boone County,0.0,0.0,0.0,0.0,54165,Illinois
+Somerset County,173.0,437.0,1163.0,298.0,26470,Maryland
+St. Johns County,346.0,756.0,1494.0,196.0,190039,Florida
+Pierce County,223.0,289.0,841.0,157.0,4357,North Dakota
+Pike County,313.0,620.0,1085.0,145.0,40404,Mississippi
+Person County,214.0,290.0,859.0,124.0,39464,North Carolina
+Missaukee County,111.0,256.0,632.0,146.0,14849,Michigan
+Yamhill County,162.0,116.0,755.0,109.0,99193,Oregon
+Crawford County,182.0,298.0,794.0,154.0,24696,Missouri
+Kings County,0.0,0.0,0.0,0.0,2504700,New York
+Limestone County,80.0,57.0,309.0,40.0,82782,Alabama
+Franklin County,689.0,1220.0,2629.0,414.0,8118,Mississippi
+Scott County,135.0,76.0,480.0,63.0,4936,Kansas
+Yalobusha County,146.0,238.0,785.0,159.0,12678,Mississippi
+McLeod County,174.0,218.0,730.0,102.0,36651,Minnesota
+Chaves County,1772.0,3288.0,6220.0,719.0,65645,New Mexico
+Adair County,309.0,635.0,1206.0,184.0,18656,Kentucky
+Sedgwick County,380.0,352.0,1442.0,233.0,498365,Kansas
+Coles County,290.0,387.0,1389.0,285.0,53873,Illinois
+Newaygo County,114.0,224.0,498.0,73.0,48460,Michigan
+Daniels County,78.0,91.0,469.0,99.0,1751,Montana
+Pershing County,212.0,299.0,1036.0,233.0,6753,Nevada
+Scott County,365.0,557.0,1338.0,171.0,39191,Missouri
+Grand Traverse County,0.0,0.0,0.0,0.0,86986,Michigan
+Newton County,319.0,565.0,1097.0,111.0,99958,Georgia
+Mineral County,183.0,384.0,1148.0,263.0,4223,Montana
+La Plata County,739.0,869.0,3403.0,450.0,51334,Colorado
+Parke County,241.0,321.0,1234.0,241.0,17339,Indiana
+Jefferson County,429.0,880.0,1686.0,329.0,6472,Oklahoma
+Madison County,926.0,2227.0,3991.0,701.0,19224,Florida
+Mecklenburg County,0.0,0.0,0.0,0.0,919628,North Carolina
+Sutter County,325.0,527.0,1342.0,207.0,94737,California
+Emmons County,368.0,476.0,1623.0,419.0,3550,North Dakota
+Ada County,59.0,45.0,210.0,23.0,392365,Idaho
+Telfair County,279.0,514.0,1215.0,192.0,16500,Georgia
+Blue Earth County,230.0,226.0,942.0,135.0,64013,Minnesota
+Mendocino County,645.0,1536.0,3428.0,455.0,87841,California
+Madison County,54.0,67.0,174.0,25.0,34876,Nebraska
+Wayne County,625.0,1082.0,2560.0,569.0,6403,Iowa
+Franklin County,472.0,733.0,1717.0,202.0,23087,Indiana
+Arthur County,125.0,158.0,460.0,94.0,460,Nebraska
+Haywood County,223.0,361.0,1154.0,216.0,59036,North Carolina
+Sheridan County,190.0,382.0,1198.0,373.0,1321,North Dakota
+St. Clair County,0.0,0.0,0.0,0.0,83593,Alabama
+Henry County,804.0,858.0,3523.0,665.0,50486,Illinois
+Erie County,3.0,4.0,24.0,9.0,77079,Ohio
+Washington County,217.0,567.0,892.0,138.0,51137,Mississippi
+Twin Falls County,490.0,692.0,1593.0,178.0,77230,Idaho
+Mitchell County,179.0,270.0,1015.0,197.0,15579,North Carolina
+Monroe County,372.0,607.0,2900.0,594.0,73090,Florida
+Steuben County,850.0,1393.0,2659.0,319.0,98990,New York
+Rabun County,16.0,15.0,96.0,22.0,16276,Georgia
+Sherman County,163.0,155.0,635.0,133.0,3152,Nebraska
+Bernalillo County,864.0,1531.0,3693.0,303.0,662564,New Mexico
+Leavenworth County,175.0,188.0,801.0,139.0,76227,Kansas
+Reynolds County,671.0,1222.0,3044.0,614.0,6696,Missouri
+Vance County,136.0,380.0,791.0,146.0,45422,North Carolina
+Comanche County,72.0,61.0,337.0,78.0,1891,Kansas
+Jasper County,0.0,1.0,1.0,1.0,33478,Indiana
+Paulding County,699.0,835.0,2734.0,406.0,19614,Ohio
+Pemiscot County,0.0,0.0,0.0,0.0,18296,Missouri
+Harmon County,50.0,60.0,242.0,51.0,2922,Oklahoma
+Essex County,0.0,0.0,0.0,0.0,783969,New Jersey
+Berrien County,0.0,0.0,0.0,0.0,156813,Michigan
+Richland County,1107.0,728.0,4372.0,641.0,16321,North Dakota
+Carroll County,321.0,439.0,1387.0,224.0,27446,Arkansas
+Johnson County,996.0,969.0,3789.0,429.0,52595,Missouri
+Clark County,505.0,686.0,2008.0,262.0,110232,Indiana
+Bottineau County,572.0,672.0,2920.0,598.0,6429,North Dakota
+Marion County,0.0,0.0,0.0,0.0,903393,Indiana
+Thomas County,172.0,262.0,702.0,111.0,44720,Georgia
+Finney County,324.0,428.0,1013.0,97.0,36776,Kansas
+Scott County,653.0,1460.0,2408.0,305.0,28264,Mississippi
+Jones County,6.0,9.0,18.0,2.0,10153,North Carolina
+Jackson County,488.0,707.0,1945.0,363.0,26446,Oklahoma
+Stephens County,0.0,0.0,0.0,0.0,26175,Georgia
+Kusilvak Census Area,653.0,1193.0,1562.0,70.0,7459,Alaska
+Walsh County,384.0,554.0,2075.0,431.0,11119,North Dakota
+Iron County,85.0,208.0,638.0,160.0,11817,Michigan
+Ionia County,0.0,0.0,0.0,0.0,63905,Michigan
+Ellsworth County,404.0,703.0,2031.0,463.0,6497,Kansas
+Suwannee County,951.0,2234.0,4984.0,1591.0,41551,Florida
+Dodge County,142.0,134.0,518.0,62.0,20087,Minnesota
+Coos County,247.0,631.0,1414.0,330.0,63043,Oregon
+Nome Census Area,807.0,1442.0,2196.0,133.0,9492,Alaska
+Lincoln County,353.0,2474.0,4695.0,236.0,14134,Arkansas
+Putnam County,1.0,3.0,8.0,5.0,6006,Illinois
+Switzerland County,178.0,331.0,488.0,70.0,10613,Indiana
+Clay County,365.0,578.0,1441.0,143.0,190865,Florida
+Butler County,270.0,556.0,1334.0,259.0,20947,Alabama
+Garfield County,40.0,60.0,207.0,55.0,2049,Nebraska
+Lyon County,758.0,674.0,3103.0,516.0,33690,Kansas
+Keweenaw County,31.0,156.0,630.0,233.0,2156,Michigan
+Box Butte County,397.0,440.0,1679.0,258.0,11308,Nebraska
+Doniphan County,467.0,700.0,2594.0,428.0,7945,Kansas
+Jenkins County,13.0,48.0,79.0,17.0,8340,Georgia
+Van Buren County,370.0,1164.0,1799.0,351.0,17295,Arkansas
+Phillips County,1216.0,2551.0,4877.0,896.0,21757,Arkansas
+Grady County,228.0,345.0,1031.0,190.0,25011,Georgia
+Morgan County,122.0,123.0,542.0,94.0,17868,Georgia
+Assumption Parish,46.0,137.0,208.0,23.0,23421,Louisiana
+Wheeler County,166.0,256.0,729.0,146.0,818,Nebraska
+Hoke County,0.0,0.0,0.0,0.0,46952,North Carolina
+Aroostook County,1065.0,2884.0,6486.0,1485.0,71870,Maine
+Rice County,0.0,0.0,0.0,0.0,64142,Minnesota
+Charlotte County,99.0,160.0,574.0,172.0,159978,Florida
+Fayette County,0.0,0.0,0.0,0.0,106567,Georgia
+Kalkaska County,75.0,309.0,790.0,253.0,17153,Michigan
+Union County,3.0,3.0,11.0,2.0,15007,Kentucky
+Henry County,877.0,1126.0,3420.0,645.0,20145,Iowa
+Greene County,0.0,0.0,0.0,0.0,275174,Missouri
+Lorain County,0.0,0.0,0.0,0.0,301356,Ohio
+Northwest Arctic Borough,1269.0,2179.0,3434.0,177.0,7523,Alaska
+Pushmataha County,588.0,1089.0,2830.0,612.0,11572,Oklahoma
+Union County,0.0,0.0,0.0,0.0,7516,Indiana
+York County,0.0,0.0,0.0,0.0,197131,Maine
+Pike County,332.0,547.0,1382.0,229.0,32899,Alabama
+Catawba County,0.0,0.0,0.0,0.0,154358,North Carolina
+Houston County,84.0,71.0,371.0,68.0,19027,Minnesota
+Hill County,1294.0,1994.0,4012.0,464.0,16096,Montana
+Baxter County,126.0,301.0,752.0,175.0,41513,Arkansas
+Wallace County,125.0,126.0,487.0,63.0,1485,Kansas
+Cole County,1067.0,987.0,4051.0,419.0,75990,Missouri
+Delta County,697.0,997.0,3545.0,707.0,37069,Michigan
+Caldwell County,43.0,74.0,217.0,32.0,12984,Kentucky
+Power County,309.0,460.0,988.0,130.0,7817,Idaho
+Highland County,372.0,630.0,1516.0,214.0,43589,Ohio
+Harnett County,0.0,0.0,0.0,0.0,114678,North Carolina
+Cheyenne County,408.0,488.0,1887.0,344.0,9998,Nebraska
+Moffat County,286.0,557.0,1234.0,212.0,13795,Colorado
+Dawson County,38.0,58.0,192.0,15.0,22330,Georgia
+Oldham County,0.0,0.0,0.0,0.0,60316,Kentucky
+Pike County,776.0,1323.0,3264.0,615.0,16430,Illinois
+Greene County,730.0,2058.0,2971.0,464.0,9045,Alabama
+Gibson County,137.0,194.0,600.0,76.0,33503,Indiana
+Morris County,474.0,589.0,1952.0,364.0,5923,Kansas
+Bolivar County,1898.0,4474.0,6670.0,812.0,34145,Mississippi
+Nevada County,68.0,85.0,523.0,72.0,98764,California
+Issaquena County,89.0,217.0,363.0,61.0,1406,Mississippi
+Calhoun County,187.0,489.0,801.0,148.0,14625,Florida
+Bonneville County,235.0,318.0,1150.0,240.0,104234,Idaho
+Sharkey County,77.0,229.0,319.0,57.0,4916,Mississippi
+Gulf County,150.0,300.0,1264.0,237.0,15863,Florida
+Lafayette County,418.0,868.0,1609.0,284.0,7645,Arkansas
+Tishomingo County,0.0,0.0,0.0,0.0,19593,Mississippi
+Pawnee County,113.0,150.0,502.0,110.0,2773,Nebraska
+Republic County,245.0,308.0,1265.0,302.0,4980,Kansas
+Polk County,0.0,0.0,0.0,0.0,20510,North Carolina
+Marion County,286.0,534.0,1671.0,364.0,16653,Arkansas
+Brown County,87.0,92.0,377.0,70.0,25893,Minnesota
+Luce County,106.0,283.0,785.0,237.0,6631,Michigan
+Onondaga County,1103.0,868.0,4270.0,521.0,467026,New York
+Warren County,212.0,387.0,1143.0,220.0,48773,Mississippi
+Sarpy County,0.0,0.0,0.0,0.0,158840,Nebraska
+Washington County,393.0,494.0,1658.0,271.0,50976,Oklahoma
+Scioto County,9.0,16.0,38.0,4.0,79499,Ohio
+Guadalupe County,319.0,673.0,1335.0,280.0,4687,New Mexico
+Pike County,32.0,61.0,130.0,27.0,28709,Ohio
+Humphreys County,297.0,753.0,1247.0,198.0,9375,Mississippi
+Texas County,767.0,1321.0,3267.0,523.0,26008,Missouri
+Bowman County,198.0,92.0,938.0,189.0,3151,North Dakota
+Lane County,107.0,121.0,390.0,66.0,1750,Kansas
+Cavalier County,269.0,329.0,1449.0,367.0,3993,North Dakota
+Highlands County,399.0,1079.0,2546.0,719.0,98786,Florida
+McPherson County,151.0,177.0,539.0,97.0,539,Nebraska
+Josephine County,463.0,1524.0,2709.0,564.0,82713,Oregon
+Walton County,1039.0,1838.0,4587.0,738.0,55043,Florida
+Gratiot County,151.0,174.0,652.0,106.0,42476,Michigan
+Oscoda County,25.0,49.0,138.0,45.0,8640,Michigan
+Yuba County,64.0,70.0,281.0,45.0,72155,California
+Somerset County,169.0,528.0,1131.0,249.0,52228,Maine
+Kiowa County,204.0,336.0,1015.0,167.0,2553,Kansas
+Taos County,972.0,2607.0,5004.0,967.0,32937,New Mexico
+New Haven County,0.0,0.0,0.0,0.0,862477,Connecticut
+Pottawatomie County,973.0,1772.0,4180.0,726.0,69442,Oklahoma
+Riley County,833.0,639.0,3371.0,475.0,71115,Kansas
+Mercer County,261.0,551.0,1325.0,272.0,16434,Illinois
+Cabarrus County,0.0,0.0,0.0,0.0,178011,North Carolina
+Pasco County,0.0,3.0,5.0,3.0,464697,Florida
+Cassia County,1590.0,1972.0,4490.0,566.0,22952,Idaho
+Gosper County,320.0,245.0,1310.0,289.0,2044,Nebraska
+Fremont County,1348.0,1903.0,5656.0,1098.0,7441,Iowa
+Stevens County,306.0,303.0,983.0,131.0,5724,Kansas
+Montgomery County,228.0,442.0,1215.0,260.0,12236,Missouri
+Dallas County,0.0,0.0,0.0,0.0,66135,Iowa
+Vanderburgh County,0.0,0.0,0.0,0.0,179703,Indiana
+Knott County,32.0,99.0,142.0,17.0,16346,Kentucky
+Montgomery County,152.0,318.0,718.0,118.0,10925,Mississippi
+Carroll County,0.0,0.0,0.0,0.0,10811,Kentucky
+Morrison County,1741.0,1646.0,6369.0,832.0,33198,Minnesota
+Seneca County,0.0,0.0,0.0,0.0,35251,New York
+Craighead County,189.0,421.0,742.0,148.0,96443,Arkansas
+Wright County,180.0,271.0,861.0,206.0,13229,Iowa
+Bullitt County,331.0,459.0,1403.0,184.0,74319,Kentucky
+Leon County,454.0,724.0,1962.0,263.0,275487,Florida
+Madison County,28.0,47.0,148.0,24.0,73442,New York
+Stark County,932.0,1180.0,3752.0,688.0,5994,Illinois
+Bladen County,306.0,775.0,1782.0,400.0,35190,North Carolina
+Piscataquis County,119.0,295.0,780.0,204.0,17535,Maine
+Thomas County,286.0,298.0,1093.0,179.0,7900,Kansas
+Hunterdon County,0.0,0.0,0.0,0.0,128349,New Jersey
+Hot Spring County,1049.0,1660.0,4369.0,721.0,32923,Arkansas
+Cape May County,40.0,51.0,165.0,22.0,97265,New Jersey
+Valley County,689.0,1022.0,2964.0,593.0,7369,Montana
+Wexford County,237.0,392.0,971.0,154.0,32735,Michigan
+Martin County,104.0,193.0,539.0,105.0,24505,North Carolina
+Lyon County,1244.0,1165.0,4866.0,849.0,25857,Minnesota
+Dunn County,400.0,470.0,1866.0,305.0,3536,North Dakota
+Moore County,15.0,25.0,75.0,16.0,88247,North Carolina
+DeKalb County,0.0,0.0,0.0,0.0,42223,Indiana
+Vernon Parish,2496.0,3996.0,9600.0,1400.0,52334,Louisiana
+Shelby County,510.0,574.0,2339.0,559.0,12167,Iowa
+Chilton County,99.0,196.0,473.0,81.0,43643,Alabama
+Stearns County,1112.0,1073.0,4284.0,803.0,150642,Minnesota
+Beaverhead County,323.0,595.0,1685.0,345.0,9246,Montana
+Ohio County,0.0,0.0,0.0,0.0,6128,Indiana
+Grundy County,0.0,0.0,0.0,0.0,50063,Illinois
+Red Lake County,1002.0,1073.0,4056.0,692.0,4089,Minnesota
+Cross County,795.0,1763.0,3370.0,612.0,17870,Arkansas
+Kossuth County,326.0,404.0,1397.0,293.0,15543,Iowa
+Bradford County,61.0,107.0,302.0,55.0,28520,Florida
+Lincoln County,672.0,779.0,2811.0,498.0,5345,Nevada
+Cleburne County,213.0,303.0,891.0,128.0,14972,Alabama
+Stutsman County,754.0,796.0,3351.0,613.0,21100,North Dakota
+Orange County,0.0,0.0,0.0,0.0,3010232,California
+Montcalm County,0.0,0.0,0.0,0.0,63342,Michigan
+Morgan County,147.0,289.0,657.0,132.0,20565,Missouri
+Edgecombe County,0.0,0.0,0.0,0.0,56552,North Carolina
+Charlevoix County,41.0,49.0,200.0,28.0,25949,Michigan
+Pocahontas County,404.0,594.0,1632.0,287.0,7310,Iowa
+Talbot County,423.0,1103.0,1960.0,329.0,6865,Georgia
+Bond County,261.0,339.0,1091.0,156.0,17768,Illinois
+Fresno County,1651.0,2515.0,6748.0,905.0,930450,California
+Morgan County,200.0,249.0,884.0,127.0,28159,Colorado
+Montgomery County,952.0,1484.0,3979.0,682.0,35471,Kansas
+Hancock County,0.0,0.0,0.0,0.0,74782,Ohio
+Hooker County,157.0,241.0,736.0,193.0,736,Nebraska
+Bossier Parish,351.0,429.0,1711.0,269.0,116979,Louisiana
+Kauai County,59.0,5.0,183.0,14.0,67091,Hawaii
+Miller County,149.0,352.0,801.0,183.0,43462,Arkansas
+Cobb County,0.0,0.0,0.0,0.0,688078,Georgia
+Gray County,789.0,714.0,2734.0,401.0,6006,Kansas
+Long County,27.0,38.0,108.0,11.0,14464,Georgia
+Tuscola County,1187.0,1923.0,5053.0,960.0,55729,Michigan
+Bannock County,1139.0,1281.0,3965.0,652.0,82839,Idaho
+Baker County,458.0,968.0,2114.0,331.0,3451,Georgia
+Kootenai County,285.0,431.0,1577.0,289.0,138494,Idaho
+Hocking County,23.0,35.0,133.0,27.0,29380,Ohio
+Sanilac County,688.0,902.0,2674.0,448.0,43114,Michigan
+Sioux County,601.0,1011.0,1675.0,142.0,4153,North Dakota
+Emmet County,464.0,814.0,2215.0,492.0,10302,Iowa
+Dewey County,755.0,1206.0,3084.0,644.0,4810,Oklahoma
+Breckinridge County,552.0,706.0,2280.0,361.0,20059,Kentucky
+Strafford County,0.0,0.0,0.0,0.0,123143,New Hampshire
+Moultrie County,31.0,62.0,176.0,42.0,14846,Illinois
+New York County,0.0,0.0,0.0,0.0,1585873,New York
+Independence County,589.0,1014.0,2439.0,387.0,36647,Arkansas
+Schoharie County,75.0,130.0,427.0,99.0,32749,New York
+Prentiss County,142.0,261.0,629.0,96.0,25276,Mississippi
+Colquitt County,673.0,1242.0,2597.0,361.0,45498,Georgia
+Buena Vista County,301.0,319.0,1232.0,225.0,20260,Iowa
+Douglas County,253.0,458.0,1284.0,289.0,19980,Illinois
+Pueblo County,741.0,926.0,3531.0,661.0,159063,Colorado
+Bryan County,99.0,61.0,414.0,53.0,30233,Georgia
+Prince of Wales-Hyder Census Area,254.0,491.0,1262.0,151.0,5559,Alaska
+Washington County,71.0,68.0,282.0,22.0,529710,Oregon
+Clatsop County,436.0,715.0,1912.0,262.0,37039,Oregon
+Desha County,256.0,616.0,1183.0,228.0,13008,Arkansas
+George County,612.0,1144.0,2150.0,249.0,22578,Mississippi
+Worth County,57.0,116.0,304.0,70.0,2171,Missouri
+Banner County,153.0,190.0,680.0,136.0,690,Nebraska
+Rutherford County,381.0,560.0,1869.0,303.0,67810,North Carolina
+Custer County,217.0,198.0,973.0,142.0,11699,Montana
+Greene County,787.0,1439.0,3194.0,365.0,33165,Indiana
+Nash County,9.0,23.0,53.0,6.0,95840,North Carolina
+Grand County,69.0,38.0,419.0,40.0,14843,Colorado
+Caddo County,1120.0,1895.0,4752.0,867.0,29600,Oklahoma
+Franklin County,644.0,820.0,2690.0,426.0,25992,Kansas
+Halifax County,7.0,24.0,43.0,6.0,54691,North Carolina
+Otsego County,2061.0,3404.0,9785.0,1711.0,62259,New York
+Kent County,0.0,0.0,0.0,0.0,602622,Michigan
+Sarasota County,1.0,0.0,2.0,0.0,379448,Florida
+Dixie County,195.0,494.0,1412.0,403.0,16422,Florida
+Jackson County,260.0,327.0,952.0,95.0,139668,Mississippi
+Putnam County,952.0,935.0,3997.0,512.0,34499,Ohio
+Beauregard Parish,2971.0,4310.0,11122.0,1499.0,35654,Louisiana
+Douglas County,1.0,2.0,11.0,3.0,110826,Kansas
+Tipton County,129.0,160.0,521.0,82.0,15936,Indiana
+Carbon County,291.0,336.0,1505.0,253.0,10078,Montana
+Citrus County,0.0,0.0,0.0,0.0,141236,Florida
+Alexander County,23.0,20.0,75.0,8.0,37198,North Carolina
+Glacier County,826.0,1208.0,2643.0,280.0,13399,Montana
+Clarke County,896.0,1901.0,3717.0,629.0,25833,Alabama
+Chautauqua County,298.0,645.0,1344.0,308.0,3669,Kansas
+Randolph County,612.0,1433.0,2486.0,457.0,17969,Arkansas
+Denver County,0.0,0.0,0.0,0.0,600158,Colorado
+Sweet Grass County,201.0,186.0,826.0,126.0,3651,Montana
+Webster County,503.0,520.0,1998.0,395.0,3812,Nebraska
+Clay County,564.0,646.0,2261.0,382.0,8535,Kansas
+Custer County,166.0,268.0,1036.0,238.0,4255,Colorado
+Lee County,278.0,238.0,1259.0,211.0,35862,Iowa
+Greene County,433.0,543.0,1863.0,300.0,42090,Arkansas
+District of Columbia,0.0,0.0,0.0,0.0,601723,District of Columbia
+Westchester County,0.0,0.0,0.0,0.0,949113,New York
+Dunklin County,10.0,15.0,53.0,10.0,31953,Missouri
+Thayer County,200.0,293.0,980.0,271.0,5228,Nebraska
+Boise County,761.0,973.0,3341.0,470.0,7028,Idaho
+Hempstead County,737.0,1302.0,3101.0,526.0,22609,Arkansas
+Ashley County,533.0,1095.0,2213.0,377.0,21853,Arkansas
+Upson County,100.0,260.0,514.0,83.0,27153,Georgia
+San Joaquin County,27.0,91.0,231.0,45.0,685306,California
+Grant County,58.0,81.0,251.0,34.0,70061,Indiana
+Lake County,0.0,0.0,0.0,0.0,230041,Ohio
+Luna County,823.0,2241.0,3298.0,723.0,25095,New Mexico
+Broward County,0.0,0.0,0.0,0.0,1748066,Florida
+Texas County,878.0,1590.0,3666.0,389.0,20640,Oklahoma
+Goodhue County,71.0,31.0,217.0,25.0,46183,Minnesota
+Delaware County,0.0,0.0,0.0,0.0,117671,Indiana
+Louisa County,37.0,37.0,130.0,13.0,11387,Iowa
+Del Norte County,643.0,1540.0,2943.0,480.0,28610,California
+Gem County,187.0,307.0,826.0,171.0,16719,Idaho
+McPherson County,844.0,917.0,3520.0,788.0,29180,Kansas
+Putnam County,34.0,157.0,257.0,81.0,21218,Georgia
+Chouteau County,832.0,1306.0,2881.0,409.0,5813,Montana
+Kemper County,899.0,2507.0,3870.0,570.0,10456,Mississippi
+Lawrence County,139.0,89.0,618.0,97.0,16833,Illinois
+Bibb County,90.0,102.0,365.0,72.0,22915,Alabama
+Ward County,2756.0,2890.0,8776.0,533.0,61675,North Dakota
+Jefferson County,32.0,54.0,126.0,17.0,16930,Georgia
+Bullock County,560.0,1267.0,2586.0,488.0,10914,Alabama
+Coshocton County,321.0,243.0,1075.0,108.0,36901,Ohio
+Hamilton County,136.0,96.0,500.0,79.0,9124,Nebraska
+Honolulu County,0.0,0.0,0.0,0.0,953207,Hawaii
+Santa Clara County,41.0,25.0,246.0,47.0,1781642,California
+Logan County,609.0,902.0,2643.0,455.0,26835,Kentucky
+Wilcox County,206.0,474.0,918.0,187.0,9255,Georgia
+Yolo County,1660.0,2719.0,6416.0,908.0,200849,California
+Cherokee County,29.0,59.0,146.0,31.0,21603,Kansas
+Wilkin County,423.0,319.0,1760.0,265.0,6576,Minnesota
+St. John the Baptist Parish,13.0,14.0,67.0,9.0,45924,Louisiana
+Smith County,554.0,896.0,2229.0,349.0,16491,Mississippi
+Isanti County,578.0,727.0,2060.0,278.0,37816,Minnesota
+Keokuk County,624.0,808.0,2672.0,481.0,10511,Iowa
+Lander County,206.0,241.0,879.0,149.0,5775,Nevada
+Madison County,330.0,748.0,1452.0,267.0,12226,Missouri
+Kit Carson County,556.0,773.0,2167.0,372.0,8270,Colorado
+Monroe County,26.0,35.0,139.0,18.0,32957,Illinois
+Barry County,46.0,101.0,217.0,44.0,35597,Missouri
+Tolland County,0.0,0.0,0.0,0.0,152691,Connecticut
+White County,165.0,239.0,814.0,153.0,14665,Illinois
+Niagara County,0.0,0.0,0.0,0.0,216469,New York
+Coweta County,10.0,9.0,34.0,5.0,127317,Georgia
+Washington County,316.0,677.0,1724.0,437.0,10198,Idaho
+Klamath County,1689.0,4647.0,9729.0,2184.0,66380,Oregon
+Franklin County,159.0,200.0,617.0,84.0,39561,Illinois
+Johnson County,336.0,305.0,1369.0,257.0,5217,Nebraska
+Montmorency County,37.0,117.0,377.0,162.0,9765,Michigan
+Santa Barbara County,762.0,905.0,3034.0,372.0,423895,California
+Rock County,300.0,287.0,1180.0,252.0,9687,Minnesota
+Vermilion Parish,265.0,343.0,1115.0,174.0,57999,Louisiana
+Richland County,606.0,587.0,2501.0,380.0,9746,Montana
+Marshall County,1348.0,1474.0,5754.0,1077.0,9439,Minnesota
+Winston County,213.0,415.0,1033.0,204.0,24484,Alabama
+DeKalb County,0.0,0.0,0.0,0.0,71109,Alabama
+Antrim County,12.0,14.0,39.0,5.0,23580,Michigan
+Jackson County,160.0,417.0,821.0,156.0,17997,Arkansas
+Washington County,529.0,1656.0,3934.0,436.0,21187,Georgia
+Clinton County,950.0,924.0,3540.0,561.0,49116,Iowa
+Scott County,0.0,0.0,0.0,0.0,129928,Minnesota
+North Slope Borough,342.0,670.0,3575.0,109.0,9430,Alaska
+Emmet County,685.0,1159.0,3173.0,586.0,32694,Michigan
+Dawson County,502.0,527.0,1946.0,294.0,24326,Nebraska
+Roosevelt County,728.0,868.0,2720.0,449.0,10425,Montana
+Perry County,686.0,1210.0,2667.0,353.0,12250,Mississippi
+Red Willow County,299.0,428.0,1251.0,236.0,11055,Nebraska
+McIntosh County,55.0,94.0,413.0,111.0,14333,Georgia
+Randolph County,652.0,1104.0,2620.0,373.0,141752,North Carolina
+Cotton County,98.0,133.0,394.0,74.0,6193,Oklahoma
+Greeley County,384.0,523.0,1679.0,381.0,2538,Nebraska
+Clarke County,523.0,1069.0,2267.0,381.0,16732,Mississippi
+Columbia County,70.0,137.0,346.0,55.0,49351,Oregon
+Miami-Dade County,141.0,199.0,462.0,11.0,2496435,Florida
+Adams County,93.0,133.0,530.0,143.0,2343,North Dakota
+Grenada County,420.0,634.0,1964.0,341.0,21906,Mississippi
+Fayette County,0.0,0.0,0.0,0.0,295803,Kentucky
+Fulton County,1.0,2.0,6.0,1.0,6813,Kentucky
+Ransom County,155.0,97.0,667.0,130.0,5457,North Dakota
+Clay County,371.0,527.0,1614.0,309.0,6542,Nebraska
+Butler County,0.0,0.0,0.0,0.0,368130,Ohio
+Ogle County,29.0,29.0,119.0,11.0,53497,Illinois
+Nassau County,2.0,1.0,6.0,1.0,73314,Florida
+Bay County,12.0,19.0,64.0,14.0,107771,Michigan
+Juneau City and Borough,18.0,21.0,157.0,13.0,31275,Alaska
+Etowah County,0.0,0.0,0.0,0.0,104430,Alabama
+Camden County,0.0,0.0,0.0,0.0,513657,New Jersey
+Towns County,0.0,1.0,1.0,0.0,10471,Georgia
+Hamilton County,102.0,29.0,403.0,58.0,274569,Indiana
+Randolph County,658.0,1490.0,2939.0,453.0,22913,Alabama
+Johnson County,211.0,330.0,948.0,169.0,12582,Illinois
+Sedgwick County,76.0,120.0,442.0,101.0,2379,Colorado
+Floyd County,0.0,0.0,0.0,0.0,74578,Indiana
+Carson City,0.0,0.0,0.0,0.0,55274,Nevada
+Gallatin County,784.0,1670.0,3706.0,750.0,5589,Illinois
+Calhoun County,0.0,0.0,0.0,0.0,118572,Alabama
+Macomb County,0.0,0.0,0.0,0.0,840978,Michigan
+Cass County,679.0,846.0,2836.0,593.0,13956,Iowa
+Jessamine County,0.0,0.0,0.0,0.0,48586,Kentucky
+Flagler County,21.0,34.0,124.0,31.0,95696,Florida
+Marshall County,0.0,0.0,0.0,0.0,93019,Alabama
+Broome County,0.0,0.0,0.0,0.0,200600,New York
+Pima County,6383.0,12857.0,24470.0,3064.0,980263,Arizona
+Indian River County,9.0,48.0,63.0,14.0,138028,Florida
+Montgomery County,0.0,0.0,0.0,0.0,26499,Kentucky
+Trinity County,327.0,1058.0,2428.0,542.0,13786,California
+Napa County,193.0,145.0,954.0,110.0,136484,California
+Livingston Parish,0.0,0.0,0.0,0.0,128026,Louisiana
+Granite County,517.0,1041.0,3028.0,739.0,3079,Montana
+Amite County,384.0,895.0,1831.0,332.0,13131,Mississippi
+Audubon County,87.0,145.0,453.0,120.0,6119,Iowa
+Russell County,138.0,419.0,712.0,129.0,17565,Kentucky
+Noxubee County,446.0,816.0,1832.0,304.0,11545,Mississippi
+St. Louis County,2243.0,3101.0,11695.0,2057.0,200226,Minnesota
+Orange County,0.0,0.0,0.0,0.0,133801,North Carolina
+Hernando County,0.0,1.0,1.0,0.0,172778,Florida
+Tift County,0.0,0.0,0.0,0.0,40118,Georgia
+Siskiyou County,1187.0,3035.0,6294.0,1352.0,44900,California
+Lake County,0.0,0.0,0.0,0.0,703462,Illinois
+Orleans County,16.0,20.0,130.0,34.0,42883,New York
+Walton County,0.0,0.0,0.0,0.0,83768,Georgia
+Oswego County,436.0,637.0,1786.0,204.0,122109,New York
+Cass County,351.0,397.0,1488.0,247.0,13642,Illinois
+Audrain County,220.0,316.0,918.0,181.0,25529,Missouri
+Meade County,277.0,393.0,1111.0,153.0,28602,Kentucky
+Fallon County,153.0,145.0,648.0,135.0,2890,Montana
+Talladega County,10.0,13.0,37.0,5.0,82291,Alabama
+Newton County,0.0,0.0,0.0,0.0,58114,Missouri
+Valdez-Cordova Census Area,628.0,996.0,2724.0,280.0,9636,Alaska
+Peoria County,775.0,605.0,2810.0,420.0,186494,Illinois
+Leflore County,416.0,913.0,1677.0,216.0,32317,Mississippi
+Divide County,113.0,164.0,684.0,179.0,2071,North Dakota
+Las Animas County,628.0,1525.0,3914.0,793.0,15507,Colorado
+Ramsey County,0.0,0.0,0.0,0.0,508640,Minnesota
+Manatee County,1053.0,981.0,4095.0,349.0,322833,Florida
+Pike County,584.0,893.0,2425.0,414.0,18516,Missouri
+Lee County,0.0,0.0,0.0,0.0,82910,Mississippi
+Lucas County,160.0,179.0,742.0,160.0,8898,Iowa
+Howard County,0.0,0.0,0.0,0.0,287085,Maryland
+McIntosh County,131.0,150.0,559.0,105.0,2809,North Dakota
+Yuma County,912.0,1168.0,3059.0,360.0,195751,Arizona
+Lowndes County,1171.0,2284.0,4411.0,581.0,11299,Alabama
+Conway County,668.0,1253.0,2794.0,488.0,21273,Arkansas
+Los Angeles County,808.0,1293.0,3798.0,470.0,9818605,California
+Perry County,1151.0,2950.0,4187.0,619.0,10591,Alabama
+Worth County,157.0,225.0,698.0,112.0,21679,Georgia
+Aleutians West Census Area,204.0,434.0,1190.0,75.0,5561,Alaska
+Adams County,114.0,186.0,501.0,81.0,32297,Mississippi
+Craven County,110.0,206.0,580.0,98.0,103505,North Carolina
+Jackson County,0.0,0.0,0.0,0.0,674158,Missouri
+White County,1105.0,1695.0,4690.0,669.0,77076,Arkansas
+Grant County,509.0,679.0,1994.0,284.0,17853,Arkansas
+Cheyenne County,225.0,227.0,872.0,189.0,2726,Kansas
+Boone County,54.0,45.0,255.0,37.0,26306,Iowa
+Drew County,396.0,789.0,1747.0,272.0,18509,Arkansas
+Kodiak Island Borough,422.0,532.0,1633.0,116.0,13592,Alaska
+Chenango County,474.0,914.0,2050.0,312.0,50477,New York
+Carteret County,355.0,730.0,2229.0,637.0,66469,North Carolina
+Whitfield County,0.0,0.0,0.0,0.0,102599,Georgia
+Sampson County,790.0,1281.0,3277.0,520.0,63431,North Carolina
+Tuscarawas County,58.0,50.0,205.0,31.0,92582,Ohio
+Sumner County,393.0,505.0,1545.0,284.0,24132,Kansas
+Pike County,565.0,1058.0,2604.0,521.0,11291,Arkansas
+Baca County,201.0,390.0,956.0,197.0,3788,Colorado
+Crow Wing County,319.0,331.0,1352.0,256.0,62500,Minnesota
+Fulton County,0.0,0.0,0.0,0.0,920581,Georgia
+Gallatin County,417.0,418.0,2058.0,273.0,89513,Montana
+Muscatine County,194.0,187.0,903.0,126.0,42745,Iowa
+Martin County,424.0,623.0,1924.0,444.0,20840,Minnesota
+Benton County,277.0,987.0,1800.0,477.0,19056,Missouri
+Cochise County,3305.0,6637.0,17460.0,4056.0,131346,Arizona
+Jefferson Davis County,523.0,1195.0,2067.0,310.0,12487,Mississippi
+Cerro Gordo County,584.0,520.0,2518.0,462.0,44151,Iowa
+Johnson County,0.0,0.0,0.0,0.0,139654,Indiana
+Mercer County,963.0,1429.0,3776.0,758.0,3785,Missouri
+La Paz County,1241.0,5409.0,10891.0,5147.0,20489,Arizona
+Douglas County,1.0,1.0,6.0,0.0,132403,Georgia
+Fairbanks North Star Borough,1296.0,825.0,5178.0,392.0,97581,Alaska
+Jerome County,648.0,1076.0,2045.0,226.0,22374,Idaho
+Wayne County,757.0,1024.0,3119.0,474.0,20747,Mississippi
+McDonald County,244.0,416.0,885.0,110.0,23083,Missouri
+Worcester County,0.0,0.0,0.0,0.0,798552,Massachusetts
+Geary County,182.0,98.0,793.0,107.0,34362,Kansas
+Chisago County,162.0,145.0,635.0,72.0,53887,Minnesota
+Huron County,220.0,241.0,738.0,86.0,59626,Ohio
+Clermont County,0.0,0.0,0.0,0.0,197363,Ohio
+Dickey County,170.0,150.0,753.0,189.0,5289,North Dakota
+Pulaski County,47.0,83.0,206.0,34.0,13402,Indiana
+Wichita County,48.0,48.0,258.0,49.0,2234,Kansas
+Atkinson County,566.0,1252.0,1968.0,246.0,8375,Georgia
+Stanislaus County,142.0,204.0,615.0,93.0,514453,California
+Ontario County,0.0,0.0,0.0,0.0,107931,New York
+Garfield County,69.0,114.0,504.0,51.0,56389,Colorado
+Cook County,200.0,462.0,1628.0,393.0,5176,Minnesota
+Rankin County,957.0,1497.0,3550.0,436.0,141617,Mississippi
+Calhoun County,743.0,1326.0,3516.0,657.0,5368,Arkansas
+Watauga County,132.0,226.0,640.0,110.0,51079,North Carolina
+Randolph County,16.0,15.0,70.0,12.0,33476,Illinois
+Bent County,217.0,333.0,808.0,136.0,6499,Colorado
+Kay County,142.0,206.0,731.0,183.0,46562,Oklahoma
+Wheeler County,259.0,736.0,1441.0,420.0,1441,Oregon
+Yakutat City and Borough,0.0,1.0,2.0,0.0,662,Alaska
+Kidder County,523.0,925.0,2435.0,511.0,2435,North Dakota
+Henry County,59.0,114.0,240.0,34.0,17302,Alabama
+Lea County,513.0,755.0,1946.0,325.0,64727,New Mexico
+Champaign County,1.0,1.0,5.0,1.0,40097,Ohio
+Glascock County,550.0,855.0,2147.0,371.0,3082,Georgia
+Elkhart County,0.0,0.0,0.0,0.0,197559,Indiana
+Nodaway County,1051.0,1830.0,4612.0,818.0,23370,Missouri
+St. Lawrence County,2248.0,3620.0,9467.0,1542.0,111944,New York
+Autauga County,1199.0,2307.0,5119.0,707.0,54571,Alabama
+Johnston County,914.0,1491.0,3697.0,613.0,10957,Oklahoma
+Taylor County,135.0,262.0,536.0,86.0,24512,Kentucky
+Wayne County,204.0,551.0,1006.0,147.0,20813,Kentucky
+Clay County,0.0,0.0,0.0,0.0,221939,Missouri
+Lake and Peninsula Borough,492.0,679.0,1631.0,127.0,1631,Alaska
+Stoddard County,60.0,101.0,235.0,34.0,29968,Missouri
+Saline County,164.0,261.0,716.0,109.0,24913,Illinois
+Union County,0.0,0.0,0.0,0.0,536499,New Jersey
+Hopkins County,264.0,294.0,1051.0,137.0,46920,Kentucky
+Quitman County,1985.0,5147.0,7407.0,996.0,8223,Mississippi
+St. Joseph County,1530.0,1570.0,5426.0,710.0,266931,Indiana
+Butler County,825.0,1343.0,3624.0,651.0,42794,Missouri
+Scotland County,144.0,179.0,466.0,86.0,4843,Missouri
+Guernsey County,871.0,1144.0,3153.0,461.0,40087,Ohio
+Erie County,0.0,0.0,0.0,0.0,919040,New York
+Butts County,0.0,1.0,2.0,0.0,23655,Georgia
+Wakulla County,643.0,996.0,3278.0,721.0,30776,Florida
+Big Horn County,1889.0,3045.0,5471.0,443.0,12865,Montana
+Wheatland County,189.0,354.0,748.0,140.0,2168,Montana
+Mohave County,2621.0,9375.0,20584.0,5801.0,200186,Arizona
+Warren County,54.0,56.0,212.0,42.0,17707,Illinois
+Fergus County,703.0,942.0,3356.0,675.0,11586,Montana
+Grundy County,0.0,0.0,0.0,0.0,12453,Iowa
+Benzie County,0.0,0.0,0.0,0.0,17525,Michigan
+Tuscaloosa County,836.0,817.0,3266.0,453.0,194656,Alabama
+Schoolcraft County,323.0,622.0,2105.0,493.0,8485,Michigan
+Marshall County,116.0,127.0,532.0,82.0,40648,Iowa
+Cherry County,522.0,620.0,2215.0,425.0,5713,Nebraska
+Huron County,1324.0,2261.0,6058.0,1316.0,33118,Michigan
+San Francisco County,0.0,0.0,0.0,0.0,805235,California
+Jefferson County,508.0,1306.0,2255.0,388.0,77435,Arkansas
+Pendleton County,22.0,30.0,86.0,8.0,14877,Kentucky
+Putnam County,256.0,550.0,1223.0,194.0,74364,Florida
+Merrimack County,1.0,3.0,16.0,1.0,146445,New Hampshire
+Lafourche Parish,2.0,10.0,27.0,8.0,96318,Louisiana
+Ellis County,439.0,566.0,1772.0,335.0,4151,Oklahoma
+Gates County,725.0,962.0,3162.0,549.0,12197,North Carolina
+Lapeer County,0.0,0.0,0.0,0.0,88319,Michigan
+Iosco County,1.0,7.0,16.0,6.0,25887,Michigan
+Tyrrell County,78.0,186.0,463.0,118.0,4407,North Carolina
+Pettis County,337.0,337.0,1214.0,157.0,42201,Missouri
+Cherokee County,19.0,34.0,91.0,12.0,25989,Alabama
+Glynn County,59.0,124.0,226.0,18.0,79626,Georgia
+Clinton County,321.0,272.0,1303.0,202.0,33224,Indiana
+Conejos County,121.0,269.0,466.0,87.0,8256,Colorado
+Webster County,79.0,118.0,407.0,89.0,38013,Iowa
+Bacon County,96.0,145.0,368.0,52.0,11096,Georgia
+Jefferson County,742.0,1237.0,3452.0,470.0,11406,Montana
+Dickinson County,318.0,498.0,1420.0,238.0,19754,Kansas
+Greenwood County,631.0,1056.0,2964.0,652.0,6689,Kansas
+Morgan County,4.0,6.0,28.0,4.0,68894,Indiana
+Dallas County,613.0,1107.0,2250.0,365.0,16777,Missouri
+Heard County,116.0,132.0,433.0,64.0,11834,Georgia
+Perry County,478.0,592.0,2120.0,382.0,18971,Missouri
+Hampshire County,561.0,799.0,3247.0,479.0,158080,Massachusetts
+Union Parish,1855.0,3228.0,7697.0,1327.0,22721,Louisiana
+Osborne County,187.0,305.0,892.0,231.0,3858,Kansas
+Polk County,3.0,6.0,13.0,1.0,41475,Georgia
+Kosciusko County,78.0,139.0,301.0,29.0,77358,Indiana
+Lee County,209.0,316.0,797.0,87.0,140247,Alabama
+Ringgold County,92.0,164.0,560.0,168.0,5131,Iowa
+Huntington County,656.0,850.0,2880.0,566.0,37124,Indiana
+Wheeler County,84.0,235.0,345.0,50.0,7421,Georgia
+Charles County,68.0,50.0,284.0,34.0,146551,Maryland
+Grant County,576.0,860.0,2654.0,612.0,6018,Minnesota
+Adams County,0.0,0.0,1.0,0.0,34387,Indiana
+Otoe County,1377.0,1089.0,5915.0,1175.0,15740,Nebraska
+Hitchcock County,595.0,1093.0,2763.0,631.0,2908,Nebraska
+Pine County,577.0,901.0,2769.0,569.0,29750,Minnesota
+Madison Parish,96.0,193.0,426.0,62.0,12093,Louisiana
+Gallatin County,0.0,0.0,0.0,0.0,8589,Kentucky
+Polk County,682.0,1689.0,5062.0,963.0,602095,Florida
+Perry County,76.0,126.0,362.0,73.0,22350,Illinois
+Jasper County,436.0,894.0,2100.0,398.0,17062,Mississippi
+Wayne County,0.0,0.0,0.0,0.0,93772,New York
+Liberty County,615.0,842.0,2168.0,271.0,8365,Florida
+Rice County,470.0,685.0,1881.0,360.0,10083,Kansas
+Warrick County,60.0,70.0,262.0,31.0,59689,Indiana
+Jefferson County,268.0,200.0,965.0,124.0,32428,Indiana
+Le Sueur County,2.0,1.0,5.0,0.0,27703,Minnesota
+Grayson County,1122.0,2460.0,5057.0,856.0,25746,Kentucky
+Rush County,186.0,351.0,986.0,239.0,3307,Kansas
+Washington County,396.0,637.0,1895.0,356.0,63216,New York
+Delaware County,154.0,256.0,707.0,136.0,47980,New York
+Seneca County,155.0,105.0,592.0,89.0,56745,Ohio
+Onslow County,28.0,67.0,104.0,7.0,177772,North Carolina
+Lafayette County,323.0,384.0,1172.0,206.0,33381,Missouri
+Warren County,62.0,54.0,282.0,57.0,32513,Missouri
+Pembina County,735.0,615.0,3406.0,618.0,7413,North Dakota
+Clearwater County,810.0,1318.0,3404.0,732.0,8695,Minnesota
+Butler County,251.0,300.0,1101.0,207.0,8395,Nebraska
+Franklin County,1984.0,3288.0,8288.0,1273.0,51599,New York
+Hinds County,1815.0,3546.0,7373.0,1031.0,245285,Mississippi
+Simpson County,588.0,1116.0,2198.0,295.0,27503,Mississippi
+Rolette County,300.0,695.0,1338.0,262.0,13937,North Dakota
+Dickinson County,494.0,724.0,2317.0,463.0,26168,Michigan
+Noble County,698.0,1098.0,2680.0,395.0,11561,Oklahoma
+Knox County,112.0,253.0,496.0,62.0,60921,Ohio
+Arenac County,0.0,0.0,1.0,0.0,15899,Michigan
+Woodbury County,1173.0,1485.0,4986.0,910.0,102172,Iowa
+Ketchikan Gateway Borough,0.0,1.0,39.0,12.0,13477,Alaska
+Webster Parish,872.0,2325.0,3947.0,656.0,41207,Louisiana
+Davis County,244.0,291.0,956.0,176.0,8753,Iowa
+St. Clair County,152.0,352.0,963.0,248.0,9805,Missouri
+Pulaski County,430.0,992.0,1936.0,387.0,6161,Illinois
+Anson County,21.0,35.0,83.0,10.0,26948,North Carolina
+Shelby County,47.0,98.0,353.0,60.0,195085,Alabama
+Faulkner County,357.0,499.0,1480.0,191.0,113237,Arkansas
+LaSalle Parish,198.0,339.0,790.0,130.0,14890,Louisiana
+Johnson County,0.0,0.0,0.0,0.0,544179,Kansas
+Haskell County,295.0,338.0,870.0,59.0,4256,Kansas
+Franklin County,378.0,473.0,1742.0,371.0,10680,Iowa
+Jefferson County,162.0,349.0,770.0,133.0,7726,Mississippi
+Fillmore County,302.0,412.0,1307.0,291.0,5890,Nebraska
+Jasper County,524.0,879.0,2061.0,293.0,117404,Missouri
+Washington County,0.0,0.0,0.0,0.0,147430,Maryland
+Quitman County,12.0,35.0,77.0,26.0,2513,Georgia
+Grant County,543.0,1080.0,2963.0,733.0,7445,Oregon
+Hillsborough County,27.0,33.0,107.0,16.0,1229226,Florida
+Washington County,1696.0,5406.0,10142.0,1301.0,24896,Florida
+Elliott County,0.0,0.0,0.0,0.0,7852,Kentucky
+Sibley County,110.0,122.0,498.0,78.0,15226,Minnesota
+Brown County,115.0,157.0,424.0,57.0,9984,Kansas
+Hamilton County,263.0,257.0,1080.0,176.0,15673,Iowa
+Pawnee County,49.0,82.0,237.0,43.0,16577,Oklahoma
+Liberty County,67.0,119.0,385.0,70.0,63453,Georgia
+San Juan County,4728.0,9675.0,16416.0,2068.0,130044,New Mexico
+Passaic County,0.0,0.0,0.0,0.0,501226,New Jersey
+Pierce County,893.0,711.0,3377.0,553.0,7266,Nebraska
+Marion County,898.0,1136.0,3984.0,691.0,39437,Illinois
+Saline County,343.0,501.0,2621.0,844.0,107118,Arkansas
+Walthall County,941.0,1859.0,3552.0,549.0,15443,Mississippi
+Ouachita Parish,453.0,930.0,1780.0,228.0,153720,Louisiana
+Lauderdale County,170.0,401.0,828.0,135.0,92709,Alabama
+New Madrid County,20.0,38.0,105.0,15.0,18956,Missouri
+Decatur County,745.0,954.0,2784.0,410.0,25740,Indiana
+Skagway Municipality,0.0,1.0,3.0,1.0,968,Alaska
+Poinsett County,339.0,624.0,1570.0,280.0,24583,Arkansas
+Harford County,0.0,0.0,0.0,0.0,244826,Maryland
+Taylor County,69.0,68.0,266.0,43.0,6317,Iowa
+Cass County,758.0,474.0,2916.0,421.0,25241,Nebraska
+Crawford County,72.0,124.0,302.0,63.0,43784,Ohio
+Ottawa County,391.0,857.0,1427.0,239.0,31848,Oklahoma
+Robertson County,368.0,670.0,1706.0,307.0,2282,Kentucky
+Sabine Parish,1196.0,1892.0,4982.0,884.0,24233,Louisiana
+Cass County,785.0,1488.0,3956.0,928.0,28567,Minnesota
+Dodge County,1342.0,1447.0,5694.0,1280.0,36691,Nebraska
+Lac qui Parle County,176.0,246.0,826.0,179.0,7259,Minnesota
+Screven County,827.0,1423.0,3062.0,446.0,14593,Georgia
+Pierce County,422.0,640.0,1667.0,236.0,18758,Georgia
+Cuming County,479.0,475.0,2025.0,405.0,9139,Nebraska
+Geauga County,0.0,0.0,0.0,0.0,93389,Ohio
+Gasconade County,177.0,252.0,854.0,168.0,15222,Missouri
+Gadsden County,289.0,785.0,1109.0,141.0,46389,Florida
+Slope County,136.0,149.0,692.0,130.0,727,North Dakota
+Sagadahoc County,54.0,43.0,436.0,133.0,35293,Maine
+Fayette County,38.0,74.0,163.0,23.0,17241,Alabama
+Linn County,572.0,762.0,2203.0,425.0,12761,Missouri
+Barnstable County,0.0,0.0,0.0,0.0,215888,Massachusetts
+Phillips County,350.0,565.0,1536.0,289.0,4253,Montana
+Benton County,995.0,965.0,3887.0,621.0,26076,Iowa
+Marshall County,72.0,102.0,375.0,62.0,10117,Kansas
+Santa Fe County,350.0,757.0,2574.0,479.0,144170,New Mexico
+Prairie County,89.0,187.0,388.0,70.0,8715,Arkansas
+Licking County,359.0,430.0,1529.0,192.0,166492,Ohio
+Calvert County,0.0,0.0,0.0,0.0,88737,Maryland
+Macon County,234.0,495.0,1115.0,236.0,15566,Missouri
+Eaton County,7.0,6.0,23.0,3.0,107759,Michigan
+Polk County,55.0,78.0,258.0,48.0,5406,Nebraska
+Elk County,267.0,534.0,1062.0,226.0,2882,Kansas
+Murray County,142.0,260.0,651.0,92.0,39628,Georgia
+Nemaha County,428.0,490.0,1539.0,219.0,10178,Kansas
+Scott County,549.0,658.0,2248.0,255.0,47173,Kentucky
+Garrard County,0.0,0.0,0.0,0.0,16912,Kentucky
+Owyhee County,815.0,1197.0,3167.0,514.0,11526,Idaho
+Montgomery County,689.0,905.0,2770.0,438.0,38124,Indiana
+McHenry County,0.0,0.0,0.0,0.0,308760,Illinois
+Sonoma County,261.0,496.0,2069.0,520.0,483878,California
+Jackson County,342.0,474.0,1502.0,229.0,42376,Indiana
+Union County,203.0,358.0,878.0,175.0,25748,Oregon
+McKenzie County,752.0,1001.0,2849.0,414.0,6360,North Dakota
+St. Bernard Parish,40.0,145.0,360.0,74.0,35897,Louisiana
+Roosevelt County,485.0,656.0,1781.0,311.0,19846,New Mexico
+White Pine County,544.0,788.0,3260.0,450.0,10030,Nevada
+Griggs County,132.0,144.0,794.0,195.0,2420,North Dakota
+Kearny County,100.0,128.0,350.0,44.0,3977,Kansas
+Prince George's County,0.0,0.0,0.0,0.0,863420,Maryland
+Madison County,1.0,2.0,6.0,1.0,82916,Kentucky
+Santa Cruz County,568.0,1160.0,3356.0,903.0,47420,Arizona
+Chatham County,360.0,575.0,1578.0,254.0,63505,North Carolina
+Clearwater County,127.0,301.0,687.0,157.0,8761,Idaho
+Terrebonne Parish,653.0,1267.0,2840.0,360.0,111860,Louisiana
+West Carroll Parish,149.0,251.0,546.0,88.0,11604,Louisiana
+Sullivan County,443.0,706.0,1830.0,331.0,6714,Missouri
+Clinton County,11.0,21.0,81.0,17.0,20743,Missouri
+Boone County,206.0,120.0,719.0,84.0,162642,Missouri
+Atchison County,318.0,518.0,1238.0,242.0,16924,Kansas
+Meade County,718.0,755.0,2333.0,343.0,4575,Kansas
+Jefferson County,0.0,0.0,0.0,0.0,741096,Kentucky
+Cedar County,402.0,406.0,1618.0,348.0,8852,Nebraska
+Grant County,64.0,117.0,252.0,38.0,614,Nebraska
+Ocean County,0.0,0.0,0.0,0.0,576567,New Jersey
+Winneshiek County,57.0,49.0,229.0,25.0,21056,Iowa
+Izard County,30.0,44.0,126.0,27.0,13696,Arkansas
+Washita County,1166.0,1512.0,4262.0,661.0,11629,Oklahoma
+Bertie County,698.0,1512.0,3077.0,540.0,21282,North Carolina
+Mahaska County,722.0,924.0,2845.0,462.0,22381,Iowa
+Stone County,98.0,126.0,389.0,51.0,32202,Missouri
+Calhoun County,91.0,172.0,468.0,86.0,14962,Mississippi
+Jay County,0.0,0.0,0.0,0.0,21253,Indiana
+Fayette County,33.0,54.0,130.0,10.0,24277,Indiana
+Habersham County,15.0,37.0,149.0,36.0,43041,Georgia
+El Paso County,3309.0,3136.0,12468.0,1331.0,622263,Colorado
+Haines Borough,99.0,253.0,519.0,58.0,2508,Alaska
+Gladwin County,267.0,742.0,1906.0,574.0,25692,Michigan
+Forsyth County,0.0,0.0,0.0,0.0,175511,Georgia
+Ben Hill County,64.0,144.0,372.0,83.0,17634,Georgia
+Mercer County,0.0,0.0,0.0,0.0,366513,New Jersey
+Sevier County,610.0,1021.0,2624.0,424.0,17058,Arkansas
+Hart County,436.0,825.0,1647.0,251.0,18199,Kentucky
+Monroe County,229.0,376.0,931.0,139.0,14642,Ohio
+Mercer County,260.0,273.0,1408.0,260.0,8424,North Dakota
+Queens County,0.0,0.0,0.0,0.0,2230722,New York
+Jefferson County,399.0,517.0,1825.0,356.0,7547,Nebraska
+Adams County,863.0,851.0,3563.0,615.0,67103,Illinois
+Tallapoosa County,460.0,815.0,2227.0,398.0,41616,Alabama
+Ontonagon County,317.0,895.0,2321.0,676.0,6780,Michigan
+Sioux County,8.0,10.0,35.0,5.0,33704,Iowa
+Fayette County,28.0,47.0,157.0,14.0,29030,Ohio
+Placer County,223.0,369.0,1231.0,184.0,348432,California
+Lake County,32.0,114.0,269.0,63.0,7310,Colorado
+Miller County,466.0,264.0,1663.0,217.0,24748,Missouri
+Wabasha County,386.0,328.0,1684.0,210.0,21676,Minnesota
+Jefferson County,624.0,1190.0,4441.0,450.0,658466,Alabama
+Schenectady County,0.0,0.0,0.0,0.0,154727,New York
+Montgomery County,175.0,309.0,729.0,125.0,30104,Illinois
+Cherokee County,1626.0,3134.0,7139.0,1269.0,46987,Oklahoma
+Monmouth County,0.0,0.0,0.0,0.0,630380,New Jersey
+Sheridan County,232.0,307.0,880.0,166.0,2556,Kansas
+Ray County,171.0,170.0,655.0,95.0,23494,Missouri
+Lincoln County,0.0,0.0,0.0,0.0,78265,North Carolina
+Knox County,174.0,212.0,712.0,89.0,38440,Indiana
+Colusa County,1843.0,2201.0,6384.0,761.0,21419,California
+Gove County,585.0,890.0,2626.0,635.0,2695,Kansas
+Hancock County,120.0,303.0,615.0,108.0,9429,Georgia
+DeSoto County,1.0,2.0,3.0,0.0,161252,Mississippi
+Rock Island County,268.0,167.0,1190.0,207.0,147546,Illinois
+Porter County,0.0,0.0,0.0,0.0,164343,Indiana
+Choctaw County,368.0,668.0,1585.0,303.0,15205,Oklahoma
+Union County,48.0,55.0,214.0,33.0,201292,North Carolina
+Hendricks County,0.0,0.0,0.0,0.0,145448,Indiana
+Stark County,485.0,529.0,2151.0,355.0,24199,North Dakota
+Wright County,0.0,0.0,0.0,0.0,124700,Minnesota
+Chattahoochee County,758.0,1493.0,2925.0,386.0,11267,Georgia
+Shelby County,18.0,28.0,84.0,7.0,42074,Kentucky
+Douglas County,798.0,1783.0,3610.0,683.0,13684,Missouri
+Treasure County,134.0,322.0,718.0,171.0,718,Montana
+Henry County,695.0,1020.0,3186.0,601.0,22272,Missouri
+Greene County,169.0,258.0,773.0,171.0,9336,Iowa
+Jefferson County,611.0,703.0,2165.0,244.0,116229,New York
+DuPage County,0.0,0.0,0.0,0.0,916924,Illinois
+Benton County,129.0,178.0,729.0,166.0,221339,Arkansas
+Clayton County,0.0,0.0,0.0,0.0,259424,Georgia
+Stephens County,696.0,1098.0,3022.0,450.0,45048,Oklahoma
+Madison County,401.0,759.0,2323.0,479.0,7691,Montana
+Rooks County,188.0,196.0,750.0,143.0,5181,Kansas
+Champaign County,58.0,51.0,222.0,38.0,201081,Illinois
+Wagoner County,13.0,24.0,53.0,10.0,73085,Oklahoma
+Sitka City and Borough,9.0,0.0,60.0,3.0,8881,Alaska
+Lyon County,430.0,287.0,1478.0,196.0,11581,Iowa
+Suffolk County,0.0,0.0,0.0,0.0,1493350,New York
+Tulsa County,0.0,0.0,0.0,0.0,603403,Oklahoma
+Noble County,0.0,0.0,0.0,0.0,47536,Indiana
+Pickens County,0.0,0.0,0.0,0.0,29431,Georgia
+Lenawee County,2.0,3.0,10.0,1.0,99892,Michigan
+Chippewa County,154.0,173.0,699.0,130.0,12441,Minnesota
+Musselshell County,278.0,580.0,1447.0,274.0,4538,Montana
+Choctaw County,742.0,1808.0,3373.0,541.0,13859,Alabama
+Berrien County,994.0,2005.0,3858.0,504.0,19286,Georgia
+Mineral County,14.0,24.0,91.0,25.0,712,Colorado
+Roger Mills County,469.0,743.0,1996.0,360.0,3647,Oklahoma
+Magoffin County,99.0,193.0,318.0,30.0,13333,Kentucky
+Washington County,729.0,1559.0,3641.0,726.0,32856,Maine
+Leake County,787.0,1802.0,3022.0,442.0,23805,Mississippi
+Blaine County,718.0,1196.0,2208.0,230.0,6491,Montana
+Morgan County,217.0,430.0,800.0,127.0,15054,Ohio
+Montgomery County,0.0,0.0,0.0,0.0,535153,Ohio
+Neshoba County,305.0,413.0,971.0,90.0,29676,Mississippi
+Wayne County,821.0,1102.0,3320.0,590.0,16760,Illinois
+McHenry County,786.0,917.0,3723.0,777.0,5395,North Dakota
+Putnam County,292.0,508.0,1328.0,281.0,4979,Missouri
+Muskogee County,351.0,652.0,1375.0,239.0,70990,Oklahoma
+Wasco County,749.0,1171.0,3758.0,871.0,25213,Oregon
+Washington County,325.0,503.0,1634.0,287.0,14716,Illinois
+Gage County,666.0,393.0,2641.0,468.0,22311,Nebraska
+Marion County,606.0,668.0,2484.0,360.0,33309,Iowa
+Cape Girardeau County,667.0,692.0,2697.0,326.0,75674,Missouri
+Montgomery County,445.0,999.0,2187.0,472.0,9487,Arkansas
+Butler County,1437.0,1641.0,5414.0,860.0,65880,Kansas
+McDowell County,87.0,218.0,439.0,74.0,44996,North Carolina
+Crowley County,19.0,33.0,107.0,26.0,5823,Colorado
+Escambia County,328.0,506.0,1678.0,272.0,297619,Florida
+Nowata County,230.0,312.0,852.0,141.0,10536,Oklahoma
+Hardin County,902.0,818.0,3781.0,503.0,105543,Kentucky
+Sumter County,41.0,68.0,154.0,17.0,32819,Georgia
+Kittson County,254.0,369.0,1178.0,228.0,4552,Minnesota
+Casey County,357.0,886.0,1514.0,231.0,15955,Kentucky
+Shelby County,364.0,337.0,1453.0,254.0,44436,Indiana
+Perry County,2.0,2.0,8.0,0.0,36058,Ohio
+Fannin County,76.0,98.0,527.0,134.0,23682,Georgia
+Clay County,57.0,116.0,343.0,84.0,10587,North Carolina
+Posey County,910.0,1080.0,4113.0,675.0,25910,Indiana
+Cheboygan County,270.0,563.0,1437.0,340.0,26152,Michigan
+Frederick County,0.0,0.0,0.0,0.0,233385,Maryland
+Otero County,531.0,1364.0,3525.0,944.0,63797,New Mexico
+Caldwell Parish,173.0,392.0,800.0,153.0,10132,Louisiana
+Terrell County,20.0,39.0,103.0,19.0,9315,Georgia
+Dale County,184.0,278.0,676.0,106.0,50251,Alabama
+Levy County,367.0,1073.0,2289.0,520.0,40801,Florida
+Woods County,487.0,649.0,2226.0,436.0,8878,Oklahoma
+Livingston County,0.0,0.0,0.0,0.0,180967,Michigan
+Wayne County,0.0,0.0,0.0,0.0,1820584,Michigan
+Powder River County,195.0,362.0,913.0,175.0,1743,Montana
+Maui County,521.0,962.0,1904.0,226.0,154834,Hawaii
+Glades County,1314.0,3082.0,7244.0,1363.0,12884,Florida
+Dodge County,18.0,34.0,74.0,13.0,21796,Georgia
+Laurens County,351.0,622.0,1522.0,263.0,48434,Georgia
+Plumas County,189.0,215.0,1261.0,277.0,20007,California
+Edwards County,111.0,147.0,477.0,91.0,3037,Kansas
+Norfolk County,0.0,0.0,0.0,0.0,670850,Massachusetts
+Scotland County,151.0,326.0,782.0,158.0,36157,North Carolina
+Campbell County,0.0,0.0,0.0,0.0,90336,Kentucky
+Osage County,503.0,736.0,2036.0,316.0,16295,Kansas
+Sullivan County,260.0,134.0,1221.0,219.0,43742,New Hampshire
+Wrangell City and Borough,105.0,119.0,506.0,70.0,2369,Alaska
+Butler County,287.0,613.0,1303.0,184.0,12690,Kentucky
+Mason County,41.0,75.0,228.0,41.0,17490,Kentucky
+Pulaski County,1117.0,1941.0,4834.0,742.0,63063,Kentucky
+Pender County,801.0,1449.0,3524.0,555.0,52217,North Carolina
+St. Joseph County,0.0,0.0,0.0,0.0,61295,Michigan
+Woodford County,1.0,1.0,7.0,2.0,38664,Illinois
+Webster County,960.0,1443.0,3776.0,539.0,13621,Kentucky
+Ballard County,0.0,1.0,2.0,0.0,8249,Kentucky
+Pontotoc County,467.0,590.0,1931.0,269.0,29957,Mississippi
+Dixon County,538.0,622.0,2036.0,349.0,6000,Nebraska
+Lonoke County,224.0,345.0,938.0,156.0,68356,Arkansas
+Simpson County,0.0,0.0,0.0,0.0,17327,Kentucky
+Arapahoe County,268.0,292.0,1044.0,129.0,572003,Colorado
+Allegheny County,0.0,0.0,0.0,0.0,1223348,Pennsylvania
+Adair County,143.0,177.0,617.0,120.0,7682,Iowa
+Lemhi County,323.0,934.0,2024.0,499.0,7936,Idaho
+Tippah County,182.0,260.0,725.0,102.0,22232,Mississippi
+Brown County,104.0,162.0,450.0,62.0,15242,Indiana
+St. Mary's County,2.0,1.0,7.0,1.0,105151,Maryland
+Ogemaw County,0.0,5.0,11.0,7.0,21699,Michigan
+Chase County,572.0,884.0,2615.0,554.0,2790,Kansas
+Hillsdale County,172.0,257.0,527.0,72.0,46688,Michigan
+Mitchell County,83.0,132.0,350.0,59.0,23498,Georgia
+Lincoln County,192.0,534.0,1476.0,371.0,19687,Montana
+Bonner County,577.0,1196.0,3351.0,696.0,40877,Idaho
+Lafayette Parish,0.0,0.0,0.0,0.0,221578,Louisiana
+Mahoning County,0.0,0.0,0.0,0.0,238823,Ohio
+Bienville Parish,686.0,1299.0,2936.0,479.0,14353,Louisiana
+Calhoun County,616.0,856.0,2890.0,751.0,9670,Iowa
+Atlantic County,107.0,97.0,456.0,52.0,274549,New Jersey
+Spalding County,0.0,0.0,0.0,0.0,64073,Georgia
+Jackson County,699.0,1352.0,2960.0,487.0,60218,Illinois
+Albany County,122.0,114.0,629.0,97.0,304204,New York
+Burt County,7.0,15.0,46.0,10.0,6858,Nebraska
+Carlisle County,99.0,171.0,404.0,50.0,5104,Kentucky
+Cleveland County,276.0,592.0,1376.0,233.0,98078,North Carolina
+Plaquemines Parish,889.0,1969.0,3604.0,431.0,23042,Louisiana
+Adams County,55.0,81.0,259.0,59.0,4029,Iowa
+Bradley County,680.0,1175.0,2735.0,439.0,11508,Arkansas
+Camden County,690.0,1209.0,2995.0,496.0,44002,Missouri
+LaGrange County,0.0,0.0,0.0,0.0,37128,Indiana
+Greene County,0.0,0.0,0.0,0.0,161573,Ohio
+Muhlenberg County,56.0,55.0,207.0,32.0,31499,Kentucky
+Meagher County,365.0,776.0,1891.0,428.0,1891,Montana
+Los Alamos County,0.0,0.0,0.0,0.0,17950,New Mexico
+Hardin County,12.0,22.0,73.0,12.0,17534,Iowa
+Chicot County,133.0,282.0,706.0,172.0,11800,Arkansas
+McDonough County,384.0,664.0,1700.0,319.0,32612,Illinois
+Auglaize County,0.0,0.0,0.0,0.0,45949,Ohio
+Yancey County,30.0,102.0,211.0,56.0,17818,North Carolina
+Sequoyah County,296.0,557.0,1097.0,137.0,42391,Oklahoma
+Jefferson County,660.0,1397.0,3537.0,493.0,38827,Illinois
+Palm Beach County,16.0,11.0,32.0,3.0,1320134,Florida
+Gilpin County,0.0,0.0,0.0,0.0,5441,Colorado
+Massac County,110.0,169.0,524.0,106.0,15429,Illinois
+Kingman County,541.0,654.0,2456.0,540.0,7858,Kansas
+Floyd County,627.0,674.0,2648.0,476.0,16303,Iowa
+Pottawattamie County,2332.0,1641.0,9048.0,1383.0,93158,Iowa
+Marion County,194.0,316.0,932.0,187.0,30776,Alabama
+Polk County,1068.0,1250.0,4736.0,975.0,31600,Minnesota
+Winnebago County,0.0,0.0,0.0,0.0,10866,Iowa
+Woodson County,100.0,326.0,614.0,173.0,3309,Kansas
+Union County,345.0,432.0,1508.0,246.0,12534,Iowa
+Sullivan County,499.0,772.0,2168.0,339.0,21475,Indiana
+Bristol County,0.0,0.0,0.0,0.0,548285,Massachusetts
+Claiborne Parish,482.0,1230.0,1923.0,339.0,17195,Louisiana
+Blount County,0.0,0.0,0.0,0.0,57322,Alabama
+Wood County,2.0,6.0,20.0,4.0,125488,Ohio
+Boyle County,200.0,243.0,867.0,127.0,28432,Kentucky
+Webster County,71.0,117.0,284.0,38.0,36202,Missouri
+Lucas County,0.0,0.0,0.0,0.0,441815,Ohio
+Eagle County,99.0,117.0,571.0,68.0,52197,Colorado
+Lee County,0.0,0.0,0.0,0.0,57866,North Carolina
+Cumberland County,23.0,16.0,92.0,8.0,11048,Illinois
+Floyd County,15.0,10.0,61.0,5.0,96317,Georgia
+Boyd County,0.0,0.0,0.0,0.0,49542,Kentucky
+Metcalfe County,17.0,48.0,80.0,17.0,10099,Kentucky
+Harney County,362.0,461.0,1488.0,265.0,7422,Oregon
+Jackson County,745.0,743.0,3232.0,499.0,19848,Iowa
+St. Clair County,0.0,0.0,0.0,0.0,270056,Illinois
+Morrill County,608.0,909.0,2538.0,470.0,5042,Nebraska
+Teller County,30.0,29.0,174.0,34.0,23350,Colorado
+Nicollet County,474.0,367.0,1715.0,206.0,32727,Minnesota
+Granville County,361.0,637.0,1886.0,345.0,59916,North Carolina
+New London County,0.0,0.0,0.0,0.0,274055,Connecticut
+Lee County,306.0,1425.0,3125.0,307.0,10424,Arkansas
+Orleans Parish,0.0,1.0,4.0,1.0,343829,Louisiana
+Talbot County,0.0,0.0,0.0,0.0,37782,Maryland
+Gooding County,33.0,47.0,125.0,16.0,15464,Idaho
+Perkins County,217.0,218.0,879.0,162.0,2970,Nebraska
+Garden County,134.0,194.0,779.0,217.0,2057,Nebraska
+Montgomery County,945.0,2043.0,5160.0,916.0,229363,Alabama
+Durham County,0.0,0.0,0.0,0.0,267587,North Carolina
+Hancock County,229.0,309.0,885.0,121.0,70002,Indiana
+Socorro County,1446.0,3155.0,5447.0,845.0,17866,New Mexico
+Howard County,859.0,899.0,3322.0,671.0,9566,Iowa
+Redwood County,1230.0,1472.0,5155.0,1104.0,16059,Minnesota
+Ascension Parish,0.0,0.0,0.0,0.0,107215,Louisiana
+Tensas Parish,801.0,2043.0,3091.0,538.0,5252,Louisiana
+Jones County,54.0,121.0,271.0,38.0,28669,Georgia
+Russell County,283.0,486.0,1491.0,384.0,6970,Kansas
+Marshall County,429.0,548.0,1665.0,296.0,12640,Illinois
+Brantley County,199.0,488.0,800.0,131.0,18411,Georgia
+Seminole County,115.0,204.0,605.0,125.0,8729,Georgia
+Washington County,33.0,37.0,178.0,39.0,13228,North Carolina
+Alachua County,91.0,219.0,586.0,114.0,247336,Florida
+Covington County,593.0,1012.0,2939.0,577.0,37765,Alabama
+Tazewell County,701.0,709.0,3042.0,489.0,135394,Illinois
+Jackson County,678.0,1403.0,3045.0,492.0,53227,Alabama
+Hamilton County,381.0,589.0,2579.0,635.0,4836,New York
+Cloud County,655.0,1033.0,2854.0,635.0,9533,Kansas
+Vinton County,127.0,324.0,668.0,121.0,13435,Ohio
+Guthrie County,292.0,346.0,1241.0,234.0,10954,Iowa
+Toombs County,555.0,892.0,2072.0,260.0,27223,Georgia
+Candler County,19.0,43.0,71.0,9.0,10998,Georgia
+Graham County,99.0,171.0,576.0,166.0,2597,Kansas
+Dutchess County,0.0,0.0,0.0,0.0,297488,New York
+Alamance County,714.0,791.0,2809.0,309.0,151131,North Carolina
+Wayne County,1049.0,1698.0,4135.0,599.0,30099,Georgia
+Perry County,755.0,1009.0,4375.0,394.0,19338,Indiana
+Keya Paha County,179.0,218.0,823.0,211.0,824,Nebraska
+Seminole County,1158.0,2078.0,4312.0,651.0,25482,Oklahoma
+Livingston County,318.0,634.0,1468.0,242.0,9519,Kentucky
+Carroll County,0.0,0.0,0.0,0.0,167134,Maryland
+Alamosa County,200.0,279.0,745.0,110.0,15445,Colorado
+Chautauqua County,430.0,465.0,1178.0,111.0,134905,New York
+Covington County,0.0,0.0,0.0,0.0,19568,Mississippi
+Concordia Parish,528.0,909.0,2059.0,334.0,20822,Louisiana
+Washington County,668.0,885.0,2607.0,306.0,28262,Indiana
+Chickasaw County,84.0,195.0,316.0,39.0,17392,Mississippi
+Montgomery County,241.0,367.0,1109.0,195.0,9123,Georgia
+Madison County,879.0,1727.0,4110.0,708.0,15717,Arkansas
+Brown County,59.0,130.0,317.0,68.0,3145,Nebraska
+Phillips County,498.0,549.0,1994.0,384.0,5642,Kansas
+Furnas County,31.0,50.0,202.0,39.0,4959,Nebraska
+Mills County,272.0,361.0,1220.0,228.0,15059,Iowa
+Washtenaw County,0.0,0.0,0.0,0.0,344791,Michigan
+Greene County,16.0,9.0,62.0,3.0,13886,Illinois
+Quay County,432.0,1041.0,2310.0,553.0,9041,New Mexico
+Union County,109.0,128.0,471.0,63.0,17808,Illinois
+Grant County,665.0,867.0,2958.0,609.0,4527,Oklahoma
+Henderson County,0.0,0.0,0.0,0.0,106740,North Carolina
+Custer County,156.0,362.0,940.0,170.0,4368,Idaho
+Caribou County,108.0,96.0,375.0,66.0,6963,Idaho
+Mineral County,205.0,599.0,988.0,208.0,4772,Nevada
+Rio Arriba County,2141.0,0.0,10527.0,1934.0,40246,New Mexico
+Conecuh County,678.0,1759.0,3487.0,742.0,13228,Alabama
+Crawford County,792.0,1529.0,3430.0,573.0,61948,Arkansas
+Kanabec County,263.0,352.0,1220.0,190.0,16239,Minnesota
+Mackinac County,633.0,1554.0,3850.0,1024.0,11113,Michigan
+Lincoln County,138.0,404.0,859.0,178.0,46034,Oregon
+Harvey County,93.0,81.0,357.0,57.0,34684,Kansas
+Stafford County,296.0,360.0,1129.0,187.0,4437,Kansas
+Chaffee County,71.0,228.0,802.0,261.0,17809,Colorado
+Calaveras County,18.0,26.0,95.0,12.0,45578,California
+Jefferson Parish,0.0,0.0,0.0,0.0,432552,Louisiana
+Wyandotte County,0.0,0.0,0.0,0.0,157505,Kansas
+Bartholomew County,292.0,289.0,1120.0,158.0,76794,Indiana
+Calcasieu Parish,383.0,494.0,1590.0,256.0,192768,Louisiana
+Clark County,264.0,317.0,1251.0,224.0,16335,Illinois
+Union County,890.0,1630.0,3978.0,665.0,41639,Arkansas
+San Miguel County,134.0,148.0,719.0,64.0,7359,Colorado
+Paulding County,0.0,0.0,0.0,0.0,142324,Georgia
+Pipestone County,683.0,771.0,2702.0,615.0,9596,Minnesota
+Larimer County,522.0,828.0,3971.0,837.0,299630,Colorado
+Lewis County,50.0,75.0,161.0,18.0,13870,Kentucky
+Shelby County,0.0,0.0,0.0,0.0,49423,Ohio
+Cumberland County,8.0,15.0,39.0,4.0,319431,North Carolina
+Ramsey County,277.0,350.0,1481.0,327.0,11451,North Dakota
+Taliaferro County,290.0,814.0,1569.0,318.0,1717,Georgia
+Watonwan County,48.0,73.0,243.0,61.0,11211,Minnesota
+Martin County,8.0,106.0,254.0,4.0,12929,Kentucky
+Lincoln County,64.0,151.0,448.0,125.0,7996,Georgia
+Mississippi County,24.0,49.0,100.0,14.0,46480,Arkansas
+Calhoun County,376.0,544.0,1425.0,176.0,136146,Michigan
+Baltimore County,0.0,0.0,0.0,0.0,805029,Maryland
+Colbert County,211.0,308.0,1013.0,177.0,54428,Alabama
+Laclede County,775.0,1248.0,3255.0,522.0,35571,Missouri
+McCreary County,144.0,342.0,522.0,60.0,18306,Kentucky
+Malheur County,419.0,747.0,1820.0,372.0,31313,Oregon
+Hawaii County,1871.0,3455.0,9291.0,1409.0,185079,Hawaii
+Lincoln County,591.0,677.0,2371.0,367.0,52566,Missouri
+McLean County,556.0,614.0,2297.0,328.0,169572,Illinois
+Grand Forks County,1572.0,1406.0,5511.0,429.0,66861,North Dakota
+Lewis County,783.0,1217.0,3676.0,636.0,27087,New York
+Clinton County,40.0,112.0,164.0,24.0,10272,Kentucky
+Brown County,286.0,511.0,1211.0,153.0,44846,Ohio
+Christian County,353.0,478.0,1350.0,183.0,77422,Missouri
+Ottawa County,382.0,604.0,1567.0,264.0,6091,Kansas
+Oklahoma County,664.0,660.0,2433.0,262.0,718633,Oklahoma
+Mesa County,1067.0,1363.0,5153.0,766.0,146723,Colorado
+Petroleum County,113.0,146.0,494.0,103.0,494,Montana
+Bremer County,120.0,108.0,449.0,68.0,24276,Iowa
+Grant County,275.0,377.0,1253.0,261.0,2394,North Dakota
+San Luis Obispo County,994.0,1362.0,4012.0,529.0,269637,California
+Escambia County,481.0,1048.0,2126.0,319.0,38319,Alabama
+Summit County,0.0,0.0,0.0,0.0,541781,Ohio
+Colfax County,739.0,2013.0,3915.0,792.0,13750,New Mexico
+Effingham County,347.0,343.0,1507.0,197.0,52250,Georgia
+Gilliam County,218.0,389.0,1022.0,168.0,1871,Oregon
+Stevens County,280.0,334.0,1267.0,284.0,9726,Minnesota
+Santa Cruz County,1.0,4.0,14.0,1.0,262382,California
+Lamar County,18.0,60.0,89.0,12.0,14564,Alabama
+Hall County,885.0,970.0,3266.0,523.0,58607,Nebraska
+Monroe County,50.0,55.0,200.0,34.0,137974,Indiana
+Hickman County,40.0,61.0,183.0,39.0,4902,Kentucky
+Winona County,305.0,280.0,1325.0,205.0,51461,Minnesota
+Johnson County,518.0,1103.0,2226.0,399.0,9980,Georgia
+Caswell County,438.0,715.0,2053.0,358.0,23719,North Carolina
+Neosho County,273.0,274.0,1037.0,165.0,16512,Kansas
+Lane County,751.0,1509.0,4354.0,838.0,351715,Oregon
+Wabash County,94.0,78.0,387.0,66.0,11947,Illinois
+Lawrence County,367.0,907.0,1474.0,218.0,15860,Kentucky
+Kane County,0.0,0.0,0.0,0.0,515269,Illinois
